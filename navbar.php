@@ -27,15 +27,15 @@
                             <!-- .navbar-header -->
                             <div class="navbar-collapse collapse">
                                 <ul class="nav navbar-nav navbar-right">
-                                    <li class="active"><a href="index.html#top">Home</a></li>
-                                    <li><a href="index.html#rt_services">Services</a></li>
-                                    <li><a href="index.html#rt_features">Features</a></li>
-                                    <li><a href="index.html#rt_drone_screenshots">Screenshots</a></li>
+                                    <li class="active"><a href="index.php"> Home</a></li>
+                                    <li><a href="index.php#rt_services">Services</a></li>
+                                    <li><a href="index.php#rt_features">Features</a></li>
+                                    <li><a href="index.php#rt_drone_screenshots">Screenshots</a></li>
                                     <!-- <li><a href="index.html#rt_testimonial">Testimonials</a></li> -->
-                                    <li><a href="index.html#rt_pricing">Store</a></li>
-                                    <li><a href="index.html#rt_blog">Blog</a></li>
+                                    <li><a href="index.php#rt_pricing">Store</a></li>
+                                    <li><a href="index.php#rt_blog">Blog</a></li>
                                     <li><a href="404.php">عربى</a></li>
-                                    <li><a href="index.html#rt_contact">Contact Us</a></li>
+                                    <li><a href="index.php#rt_contact"><i class="fa fa-phone"></i> Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>

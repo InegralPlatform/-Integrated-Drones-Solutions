@@ -14,7 +14,7 @@
                     <div class="banner_caption_text">
                         <h1>DRONE SOLUTIONS PROVIDER</h1>
                         <p>Integrated Drones Solutions is the ideal partner to make integrations among several flying platforms, sensors, software and hardware in order to satisfy the specific needs of companies, research centers, governmental entities and professionals.</p>
-                        <a href="#" class="btn btn-app-store">
+                        <a href="index.php#rt_pricing" class="btn btn-app-store">
                             <i class="ion-ios-cart-outline"></i> <span class="small">Go to Store</span> <span class="big">Buy Now</span>
                         </a>
                     </div>
@@ -390,15 +390,13 @@
                             <li>Fotocamera da 12 megapixel ad alta risoluzione stabilizzata su un gimbal a tre assi;</li>
                             <li>Zoom ottico 2X e digitale di 3X;</li>
                             <li>Ideale per identificare e ispezionare aree pericolose o difficili da raggiungere;</li>
-                            <li>Dati affidabili: registra data e ora di acquisizione delle immagini, in modo da garantire precisione per intervenire in situazioni di emergenza;</li>
-                            <li>Facile da trasportare: solo 905 grammi – pieghevole;</li>
-                            <li>Memoria interna da 24 GB;</li>
-                            <li>Batterie autoriscaldanti;</li>
-                            <li>Batterie autoriscaldanti;</li>
+                          
+                          
+                          
                         </ul>
                     </div>
                     <div class="choose_plan_btn">
-                        <a href="#" class="rt_btn_color">Add To Bag</a>
+                        <a href="Product1.php" class="rt_btn_color">Add To Bag</a>
                     </div>
                 </div>
             </div>
@@ -418,15 +416,13 @@
                         <li>Fotocamera da 12 megapixel ad alta risoluzione stabilizzata su un gimbal a tre assi;</li>
                             <li>Zoom ottico 2X e digitale di 3X;</li>
                             <li>Ideale per identificare e ispezionare aree pericolose o difficili da raggiungere;</li>
-                            <li>Dati affidabili: registra data e ora di acquisizione delle immagini, in modo da garantire precisione per intervenire in situazioni di emergenza;</li>
+                           
                             <li>Facile da trasportare: solo 905 grammi – pieghevole;</li>
-                            <li>Memoria interna da 24 GB;</li>
-                            <li>Batterie autoriscaldanti;</li>
-                            <li>Batterie autoriscaldanti;</li>
+                         
                         </ul>
                     </div>
                     <div class="choose_plan_btn">
-                        <a href="#" class="rt_btn_white">Add To Bag</a>
+                        <a href="Product2.php" class="rt_btn_white">Add To Bag</a>
                     </div>
                 </div>
             </div>
@@ -448,7 +444,7 @@
                         </ul>
                     </div>
                     <div class="choose_plan_btn">
-                        <a href="#" class="rt_btn_color">CHOOSE PLAN</a>
+                        <a href="product3.php" class="rt_btn_color">Add To Bag</a>
                     </div>
                 </div>
             </div>

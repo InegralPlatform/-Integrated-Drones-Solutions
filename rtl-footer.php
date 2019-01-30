@@ -8,20 +8,21 @@
             <div class="col-md-3">
                 <div class="footer_logo text-left">
                     <a href="#">
-                        <img src="images/drone.svg" alt="Footer Logo">
+                        <img src="images/drone.svg" alt="Footer Logo" width="160px">
                     </a>
                 </div>
             </div>
             <div class="col-md-3 text-left">
                 <div class="footer_address">
-                    <p>159 E 12th St. Manchester UK</p>
-                    <a href="tel:02019853591">(+020) 1985 3591</a>
+                    <p>شارع انس بن مالك, الرياض</p>
+                    <a href="tel:02019853591">+966 55 413 3374</a>
                     <span>
-                        <a href="mailto:Hello@support.co">Hello@support.co.uk</a>
+                        <a href="majidyat@gmail.com">majidyat@gmail.com</a>
                     </span>
                 </div>
             </div>
             <div class="col-md-3">
+            <p>ونحن سعداء لمتابعكم لنا علي مواقع الشبكات الاجتماعية</p>
                 <div class="social_icons mb-110 mb-xs-60">
                     <a href="#" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
                     <a href="#" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -32,7 +33,7 @@
             </div>
             <div class="col-md-3">
                 <div class="copyright text-left">
-                    <p>&copy;  2018 </p>
+                    <p>&copy;   حلول الدرونز المتكاملة2019  </p>
                     <p>كل الحقوق محفوظة</p>
                 </div>
             </div>

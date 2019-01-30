@@ -34,7 +34,7 @@
                                     <!-- <li><a href="index.html#rt_testimonial">Testimonials</a></li> -->
                                     <li><a href="index.php#rt_pricing">Store</a></li>
                                     <li><a href="index.php#rt_blog">Blog</a></li>
-                                    <li><a href="404.php">عربى</a></li>
+                                    <li><a href="rtl-index.php">عربى</a></li>
                                     <li><a href="index.php#rt_contact"><i class="fa fa-phone"></i> Contact Us</a></li>
                                 </ul>
                             </div>

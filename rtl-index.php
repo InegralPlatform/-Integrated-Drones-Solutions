@@ -5,67 +5,14 @@
 =================================
 -->
 
-<div class="loading">
-    <div class="loading-text">
-        <span class="loading-text-words">L</span>
-        <span class="loading-text-words">O</span>
-        <span class="loading-text-words">A</span>
-        <span class="loading-text-words">D</span>
-        <span class="loading-text-words">I</span>
-        <span class="loading-text-words">N</span>
-        <span class="loading-text-words">G</span>
-    </div>
-</div>
+<?php include 'rtl_loading.php';?>
 
 <!-- End Preloader -->
 <div id="top"></div>
 <!--=========================*
             Header
 *===========================-->
-<header id="rt_header">
-    <!-- Navigation Bar -->
-    <nav>
-        <div class="navbar-wrapper" id="navigation">
-            <div class="navbar navbar-default navbar-fixed-top reveal-menu-home" role="navigation">
-                <div class="container nav-container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="navbar-header">
-                                <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                        data-target=".navbar-collapse">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                </button>
-                                <div class="logo">
-                                    <a href="index.html">
-                                        <img class="no_sticky_logo" src="images/drone.svg" alt="Logo">
-                                        <img class="sticky_logo" src="images/drone.svg" alt="Logo">
-                                    </a>
-                                </div>
-                            </div> <!-- .navbar-header -->
-                            <div class="navbar-collapse collapse">
-                                <ul class="nav navbar-nav navbar-right">
-                                    <li class="active"><a href="index.html#top">منزل</a></li>
-                                    <li><a href="index.html#rt_services">خدمات</a></li>
-                                    <li><a href="index.html#rt_features">الميزات</a></li>
-                                    <li><a href="index.html#rt_screenshots">لقطات</a></li>
-                                    <li><a href="index.html#rt_team">الفريق</a></li>
-                                    <li><a href="index.html#rt_testimonial">شهادة</a></li>
-                                    <li><a href="index.html#rt_pricing">التسعير</a></li>
-                                    <li><a href="index.html#rt_blog">مدونة</a></li>
-                                    <li><a href="index.html#rt_contact">اتصل بنا</a></li>
-                                </ul>
-                            </div>
-                        </div> <!-- .col-md-12 -->
-                    </div> <!-- .row -->
-                </div> <!-- .container -->
-            </div> <!-- .navbar -->
-        </div> <!-- .navbar-wrapper -->
-    </nav>
-    <!-- End Navigation -->
-</header>
+<?php include 'rtl_navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -73,41 +20,7 @@
             Banner
 *===========================-->
 
-<section id="rt_banner" style="background: none;">
-    <div class="bg_home" style="background: url(images/slider/1.jpg);"></div>
-    <div id="bgndVideo" class="player"
-         data-property="{videoURL:'https://www.youtube.com/watch?v=BsafeSHN_II',containment:'body',autoPlay:true, showControls:false, mute:true, startAt:0, opacity:1}">
-    </div>
-    <div class="overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="banner_caption_text">
-                    <h1>الآن كل شيء بسيط مع فانتوم</h1>
-                    <p>و لمّ بفرض الضغوط يتعلّق, أوسع بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من. </p>
-                    <a href="#" class="btn btn-app-store">
-                        <i class="fa fa-apple"></i> <span class="small">Download on the</span> <span class="big">App Store</span>
-                    </a>
-                    <a href="#" class="btn btn-app-store google_play">
-                        <i class="ion-social-android"></i> <span class="small">Download on the</span> <span
-                            class="big">Play Store</span>
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-5 col-md-offset-1">
-                <div class="banner_caption_img">
-                    <img class="wow fadeInUp" data-wow-delay="0.3" src="images/mobile-mockup.png" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="white-svg">
-        <svg viewBox="0 0 1440.002 238.478"  xml:space="preserve">
-                <path  clip-rule="evenodd" d="M1440.002,189.252C591.624,304.273,597.079,58.018,0,0
-                c0,91.006,0,216.847,0,238.478c148.21-0.137,1440.002,0,1440.002,0S1440.002,208.484,1440.002,189.252L1440.002,189.252z"></path>
-            </svg>
-    </div><!--white-svg-->
-</section>
+<?php include 'rtl_banner.php';?>
 <!--=========================*
             End	Banner
 *===========================-->
@@ -119,15 +32,21 @@
         <div class="row">
             <div class="mt_heading">
                 <h2 class="section_heading text-center"><span>خدمات</span></h2>
-                <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                <p class="heading_txt text-center">حن نطور برامج تطبيقي محدده للتخطيط الطيران الألى وأداره البعثات بدون طيار.</p>  
+                 <p class="heading_txt text-center">نحن نقدم المنتجات المتكاملة والصناعية المرتبطة بالتدريب اللازم للتطبيق لجعل العميل قادرا علي استخدام مستقل.
+
+</p>
+                <p class="heading_txt text-center">ونحن ندرك التطورات الهندسيةالكبيرة لذلك قمنا بتصميمها خصيصا لاستكمال منصات الطيران الأمنه وباسعار معقولة ، وتعمل وفقا لاحتياجات تطبيقي وأذون هيئه الطيران المدني.</p>
+              
+
             </div>
             <div class="col-md-4">
                 <div class="box text-center">
                     <div class="icon">
                         <i class="icon-tools"></i>
                     </div>
-                    <h3>تصميم نظيف</h3>
-                    <p> بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                    <h3>تصميم انيق</h3>
+             
                 </div>
             </div>
             <div class="col-md-4">
@@ -135,8 +54,8 @@
                     <div class="icon">
                         <i class="icon-heart"></i>
                     </div>
-                    <h3>مصنوع من الحب</h3>
-                    <p> بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                    <h3>مصنوع خصيصا لك</h3>
+               
                 </div>
             </div>
             <div class="col-md-4">
@@ -144,8 +63,8 @@
                     <div class="icon">
                         <i class="icon-tools-2"></i>
                     </div>
-                    <h3>سهل لتخصيص</h3>
-                    <p> بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                    <h3>سهله الاستخدام</h3>
+                    
                 </div>
             </div>
         </div>
@@ -162,8 +81,14 @@
     <div class="container">
         <div class="row">
             <div class="mt_heading">
-                <h2 class="section_heading text-center"><span>كيف تعمل</span></h2>
-                <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                <h2 class="section_heading text-center"><span> كيف تعمل الطائرات بدون طيار وما هي تكنولوجيا الطائرات بدون طيار</span></h2>
+                <p class="heading_txt text-center">الطائرات بدون طيار هي أساسا الاجهزه التي تسيطر عليها عن بعد ، التي لديها القدرة علي الطيران باستخدام الدوارات المقدمة ،
+                 والتي يمكن التحكم لاسلكيا باستخدام جهاز الإرسال لاسلكي. الطائرات بدون طيار عاده ما تكون اللعب 
+                ، ولكن هذه الأيام تطبيقاتها تتراوح من التصوير إلى المراقبة لرصد وأداره المحاصيل الخ.</p>
+                  <p class="heading_txt text-center">معظم الطائرات بدون طيار هذه الأيام عاده ما تكون مصنوعة من مواد مثل البلاستيك الصلب ولكن في بعض النماذج باهظه الثمن ، وتستخدم أيضا ألياف الكربون والتيتانيوم.</p>
+                 <p class="heading_txt text-center">الآن ، طائرات بدون طيار لديها PCB المركزية أو لوحه الدوائر المطبوعة التي تعمل بمثابه الدماغ من الطائرات بدون طيار. يحتوي علي كافة منافذ الاتصال وعناصر التحكم في الطيران المرفقة به. وتعلق أجزاء مثل الحيل والجيروسكوب ومقاييس التسارع بهذا الكلور. الطائرة بدون طيار لديها الجسم الرئيسي الذي يضم هذه المكونات ، من بين مكونات أخرى مثل الدوارات ، والبطارية الخ.</p>
+                 <p class="heading_txt text-center"> الآن ، طائرات بدون طيار لديها PCB المركزية أو لوحه الدوائر المطبوعة التي تعمل بمثابه الدماغ من الطائرات بدون طيار. يحتوي علي كافة منافذ الاتصال وعناصر التحكم في الطيران المرفقة به. وتعلق أجزاء مثل الحيل والجيروسكوب ومقاييس التسارع بهذا الكلور. الطائرة بدون طيار لديها الجسم الرئيسي الذي يضم هذه المكونات ، من بين مكونات أخرى مثل الدوارات ، والبطارية الخ.</p>
+                 <p></p>
             </div>
             <div class="col-md-7 work_description">
                 <h3>ما تحصل عليه في هذه الصفحة المقصودة!</h3>
@@ -178,7 +103,7 @@
                 </ul>
             </div>
             <div class="col-md-5 text-center wow fadeInRight">
-                <img src="images/work/work-mobile.png" alt="">
+                <img src="images/work/work-drone.png" alt="">
             </div>
         </div>
     </div>
@@ -719,21 +644,25 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="mt_heading">
-                    <h2 class="section_heading text-center"><span>مدونتنا</span></h2>
-                    <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                    <h2 class="section_heading text-center"><span>Our Blog</span></h2>
+                    <p class="heading_txt text-center"><i>Integrated drones solutions in biological precision farming</i> </p>
+                    <p class="heading_txt text-center">Drones for agriculture are precision aerial surveying instruments for precision agriculture, equipped with visible, multispectral and thermal sensors that provide quickly and easily crop status maps.</p>
+                    <p class="heading_txt text-center">Drones for agriculture are also tools for targeted low-cost, ecological and economical air distribution of products. It is possible to distribute from the low altitude above ground in an automatic and precise way, liquid products, granules, powders and capsules; the drone can import a map and quickly and effectively distribute the products exclusively in the areas that need them and in the appropriate quantity.</p>
+
+                    <p class="heading_txt text-center">Through automatic flights, programmed simply through the APP BLY3D of AERMATICA3D, you can make quick surveys and distribution of products optimized in a repeatable and economic way, without polluting for a BIOSOSTENIBLE AGRICULTURE IN RESPECT OF THE ENVIRONMENT.</p>
                 </div>
             </div>
             <!--=== Post Item ===-->
             <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="images/blog/post-1.jpg" alt="Post Image"/>
+                        <img src="images/screenshot/1.jpg" alt="Post Image" class="w-100"/>
                     </div>
                     <figcaption>
-                        <div class="date"><span class="day">28</span><span class="month">أكتوبر</span></div>
-                        <h3>لبالأمساعالم انتهى العالمالعالم انتهى بالأمس انتهى بالأمس</h3>
+                        <div class="date"><span class="day">28</span><span class="month">Oct</span></div>
+                        <h3> توزيع السوائل </h3>
                     </figcaption>
-                    <a href="blog-single.html"></a>
+                    <a href="rtl_Distribution-of-liquids.php"></a>
                 </figure>
             </div>
             <!--=== End Post Item ===-->
@@ -741,13 +670,13 @@
             <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="images/blog/post-2.jpg" alt="Post Image"/>
+                        <img src="images/screenshot/2.jpg" alt="Post Image" class="w-100" />
                     </div>
                     <figcaption>
-                        <div class="date"><span class="day">15</span><span class="month">أكتوبر</span></div>
-                        <h3>هى بالأمسهالعالم انتهى بالأمسهناك العديد من الاختلافات في مقاطع لوريم</h3>
+                        <div class="date"><span class="day">15</span><span class="month">Dec</span></div>
+                        <h3>الدرونز لتوزيع الحبوب الزراعية</h3>
                     </figcaption>
-                    <a href="blog-single.html"></a>
+                    <a href="rtl_Distribution-of-granulate products.php"></a>
                 </figure>
             </div>
             <!--=== End Post Item ===-->
@@ -755,20 +684,62 @@
             <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="images/blog/post-3.jpg" alt="Post Image"/>
+                        <img src="images/screenshot/3.jpg" alt="Post Image" class="w-100" />
                     </div>
                     <figcaption>
-                        <div class="date"><span class="day">01</span><span class="month">أكتوبر</span></div>
-                        <h3>أمسالعالم انتهى بالالم انتهى بالأمس جنبا إلى جنب مع حفنة من الطراز</h3>
+                        <div class="date"><span class="day">01</span><span class="month">Nov</span></div>
+                        <h3>توزيع البودرة للزراعة الدقيقة</h3>
                     </figcaption>
-                    <a href="blog-single.html"></a>
+                    <a href="rtl_Distribution-of-powder.php"></a>
+                </figure>
+            </div>
+            <!--=== End Post Item ===-->
+                <!--=== Post Item ===-->
+                <div class="col-md-4 col-sm-12 grid-item">
+                <figure class="blog_post">
+                    <div class="image">
+                        <img src="images/screenshot/4.jpg" alt="Post Image" class="w-100" />
+                    </div>
+                    <figcaption>
+                        <div class="date"><span class="day">28</span><span class="month">Oct</span></div>
+                        <h3>الطائرات بدون طيار لتوزيع كبسولات</h3>
+                    </figcaption>
+                    <a href="rtl_Distribution-of-capsules.php"></a>
+                </figure>
+            </div>
+            <!--=== End Post Item ===-->
+            <!--=== Post Item ===-->
+            <div class="col-md-4 col-sm-12 grid-item">
+                <figure class="blog_post">
+                    <div class="image">
+                        <img src="images/screenshot/5.jpg" alt="Post Image" class="w-100"/>
+                    </div>
+                    <figcaption>
+                        <div class="date"><span class="day">15</span><span class="month">Dec</span></div>
+                        <h3 class="text-center">المسح الحرارى ورسم الخرائط</h3>
+                    </figcaption>
+                    <a href="rtl_Surveys.php"></a>
+                </figure>
+            </div>
+            <!--=== End Post Item ===-->
+            <!--=== Post Item ===-->
+            <div class="col-md-4 col-sm-12 grid-item">
+                <figure class="blog_post">
+                    <div class="image">
+                        <img src="images/screenshot/6.jpg" alt="Post Image" class="w-100"/>
+                    </div>
+                    <figcaption>
+                        <div class="date"><span class="day">01</span><span class="month">Nov</span></div>
+                        <h3 >استطلاعات الطائرات بدون طيار – مولتيسبيترال, الحرارية ورسم الخرائط</h3>
+                    </figcaption>
+                    <a href="rtl_Mapping.php"></a>
                 </figure>
             </div>
             <!--=== End Post Item ===-->
         </div>
         <div class="row">
             <div class="col-md-12 text-center">
-                <a href="blog-listing.html" class="rt_btn_color rt_view_btn">عرض جميع المشاركات</a>
+                <a href="rtl_blog.php" class="rt_btn_color rt_view_btn">عرض  جميع المواضيع</a>
             </div>
         </div>
     </div>
@@ -783,7 +754,7 @@
 <section id="rt_contact">
     <div class="mt_heading">
         <h2 class="section_heading text-center"><span>اتصل بنا</span></h2>
-        <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+        <p class="heading_txt text-center"> اتصل بنا بحريه عامل نفسك تماما كما لو كنت في منزلك.</p>
     </div>
     <div class="container">
         <div class="row">
@@ -798,8 +769,8 @@
                             <div class="col-sm-6">
                                 <div class="location">
                                     <i class="icon-map"></i>
-                                    <h5>موقعك</h5>
-                                    <p>21 ، شارع ليكوود ، لندن</p>
+                                    <h5>موقعنا</h5>
+                                    <p>شارع انس بن مالك, الرياض</p>
                                 </div>
                             </div>
                             <div class="col-sm-6">
@@ -817,7 +788,7 @@
                                     <i class="icon-phone"></i>
                                     <div class="phone">
                                         <h5>هاتف</h5>
-                                        <p>+92-123456-458</p>
+                                        <p>+966 55 413 3374</p>
                                     </div>
                                 </div>
                             </div>
@@ -825,7 +796,7 @@
                                 <div class="email">
                                     <i class="icon-envelope"></i>
                                     <h5>البريد الإلكتروني</h5>
-                                    <p><a href="mailto:example@example.co">example@example.co</a></p>
+                                    <p><a href="majidyat@gmail.com">majidyat@gmail.com</a></p>
                                 </div>
                             </div>
                         </div>
@@ -856,7 +827,7 @@
 <!--=========================*
             Get App
 *===========================-->
-<section id="rt_get_app" style="background: url(images/feature/get-bg.jpg);">
+<!-- <section id="rt_get_app" style="background: url(images/feature/get-bg.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-md-8">
@@ -877,7 +848,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!--=========================*
           End Get App
 *===========================-->

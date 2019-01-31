@@ -17,21 +17,23 @@
                                 <div class="logo">
                                     <a href="index.php">
                                         <img class="no_sticky_logo" src="images/drone.svg" alt="Logo">
-                                        <img class="sticky_logo" src="images/logo-color.pngdrone.svg" alt="Logo">
+                                        <img class="sticky_logo" src="images/drone.svg" alt="Logo">
+                                        حلول الدرونز المتكاملة
                                     </a>
                                 </div>
                             </div> <!-- .navbar-header -->
                             <div class="navbar-collapse collapse">
-                                <ul class="nav navbar-nav navbar-right">
-                                    <li class="active"><a href="index.html#top">منزل</a></li>
-                                    <li><a href="index.html#rt_services">خدمات</a></li>
-                                    <li><a href="index.html#rt_features">الميزات</a></li>
-                                    <li><a href="index.html#rt_screenshots">لقطات</a></li>
-                                    <li><a href="index.html#rt_team">الفريق</a></li>
-                                    <li><a href="index.html#rt_testimonial">شهادة</a></li>
-                                    <li><a href="index.html#rt_pricing">التسعير</a></li>
-                                    <li><a href="index.html#rt_blog">مدونة</a></li>
-                                    <li><a href="index.html#rt_contact">اتصل بنا</a></li>
+                                <ul class="nav navbar-nav navbar-right text-center">
+                                    <li class="active"><a href="rtl_index.php#top">الصفحة الرئيسية</a></li>
+                                    <li><a href="rtl-index.php#rt_services">خدمات</a></li>
+                                    <li><a href="rtl-index.php#rt_features">الميزات</a></li>
+                                    <li><a href="rtl-index.php#rt_screenshots">لقطات</a></li>
+                                    <li><a href="rtl-index.php#rt_team">الفريق</a></li>
+                                  
+                                    <li><a href="rtl-index.php#rt_pricing">المتجر</a></li>
+                                    <li><a href="rtl-index.php#rt_blog">مدونة</a></li>
+                                    <li><a href="index.php">English</a></li>
+                                    <li><a href="rtl-index.php#rt_contact">اتصل بنا</a></li>
                                 </ul>
                             </div>
                         </div> <!-- .col-md-12 -->

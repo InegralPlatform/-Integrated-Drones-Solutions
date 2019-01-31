@@ -71,8 +71,8 @@
                 <p class="heading_txt text-center"></p>
             </div>
             <div class="col-md-4 work_description">
-                <h3>What you get in this landing page!</h3>
-                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
+                <h3>What you get </h3>
+              <p></p>
                 <ul>
                     <li>DroneDeploy 3D Mapping Solutions
                     </li>
@@ -81,7 +81,7 @@
                     <li>Maps Made Easy – Orthophoto and 3D Models.</li>
                     <li>3DF Zephyr Photogrammetry Software</li>
                     <li>Agisoft PhotoScan Photogrammetry Software</li>
-                    <li>PrecisionHawk Precision Mapper / Viewer</li>
+                    <li></li>
                 </ul>
             </div>
             <div class="col-md-8 text-center wow fadeInRight">

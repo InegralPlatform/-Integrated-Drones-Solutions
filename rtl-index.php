@@ -12,7 +12,7 @@
 <!--=========================*
             Header
 *===========================-->
-<?php include 'rtl_navbar.php';?>
+<?php include 'rtl-navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -79,30 +79,29 @@
 *===========================-->
 <section id="rt_how_it_works">
     <div class="container">
-        <div class="row">
+    <div class="row">
             <div class="mt_heading">
-                <h2 class="section_heading text-center"><span> كيف تعمل الطائرات بدون طيار وما هي تكنولوجيا الطائرات بدون طيار</span></h2>
-                <p class="heading_txt text-center">الطائرات بدون طيار هي أساسا الاجهزه التي تسيطر عليها عن بعد ، التي لديها القدرة علي الطيران باستخدام الدوارات المقدمة ،
-                 والتي يمكن التحكم لاسلكيا باستخدام جهاز الإرسال لاسلكي. الطائرات بدون طيار عاده ما تكون اللعب 
-                ، ولكن هذه الأيام تطبيقاتها تتراوح من التصوير إلى المراقبة لرصد وأداره المحاصيل الخ.</p>
-                  <p class="heading_txt text-center">معظم الطائرات بدون طيار هذه الأيام عاده ما تكون مصنوعة من مواد مثل البلاستيك الصلب ولكن في بعض النماذج باهظه الثمن ، وتستخدم أيضا ألياف الكربون والتيتانيوم.</p>
-                 <p class="heading_txt text-center">الآن ، طائرات بدون طيار لديها PCB المركزية أو لوحه الدوائر المطبوعة التي تعمل بمثابه الدماغ من الطائرات بدون طيار. يحتوي علي كافة منافذ الاتصال وعناصر التحكم في الطيران المرفقة به. وتعلق أجزاء مثل الحيل والجيروسكوب ومقاييس التسارع بهذا الكلور. الطائرة بدون طيار لديها الجسم الرئيسي الذي يضم هذه المكونات ، من بين مكونات أخرى مثل الدوارات ، والبطارية الخ.</p>
-                 <p class="heading_txt text-center"> الآن ، طائرات بدون طيار لديها PCB المركزية أو لوحه الدوائر المطبوعة التي تعمل بمثابه الدماغ من الطائرات بدون طيار. يحتوي علي كافة منافذ الاتصال وعناصر التحكم في الطيران المرفقة به. وتعلق أجزاء مثل الحيل والجيروسكوب ومقاييس التسارع بهذا الكلور. الطائرة بدون طيار لديها الجسم الرئيسي الذي يضم هذه المكونات ، من بين مكونات أخرى مثل الدوارات ، والبطارية الخ.</p>
-                 <p></p>
+                <h2 class="section_heading text-center"><span>كيف تعمل طائرات بدون طيار وما هي تكنولوجيا الطائرات بدون طيار</span></h2>
+                <p class="heading_txt text-center"> </p>
+                <p class="heading_txt text-center">الطائرات بدون طيار هي أساسا الاجهزه التي تسيطر عليها عن بعد ، التي لديها القدرة علي الطيران باستخدام الدوارات المقدمة ، والتي يمكن التحكم لاسلكيا باستخدام جهاز الإرسال لاسلكي. الطائرات بدون طيار عاده ما تكون اللعب ، ولكن هذه الأيام تطبيقاتها تتراوح من التصوير إلى المراقبة لرصد وأداره المحاصيل الخ. معظم الطائرات بدون طيار هذه الأيام عاده ما تكون مصنوعة من مواد مثل البلاستيك الصلب ولكن في بعض النماذج باهظه الثمن ، وتستخدم أيضا ألياف الكربون والتيتانيوم.</p>
+           
+                <p class="heading_txt text-center"></p>
             </div>
-            <div class="col-md-7 work_description">
-                <h3>ما تحصل عليه في هذه الصفحة المقصودة!</h3>
-                <p> بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+            <div class="col-md-4 work_description">
+                <h3>سوف تحصل على ؟ </h3>
+              
                 <ul>
-                    <li> ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي
-                    </li>
-                    <li> لدحر شموليةً شيء كل, تم إحتار التقليدي</li>
-                    <li>  سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي</li>
-                    <li>  لدحر شموليةً شيء كل, تم إحتار التقليدي</li>
-                    <li> ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي</li>
+                <li></li>
+                <li>dronedeploy حلول الخرائط ثلاثية الابعاد</li>
+                <li>Pix4D مخطط التصوير التصويري البرمجيات</li>
+                <li>برنامج اوتوديسك خلاصه الصور التصويرية</li>
+                    <li>الخرائط سهله الصنع – النماذج الجراحية والثلاثية الابعاد.</li>
+                     <li>3df الزفير التصويري البرمجيات</li>
+                    <li>برنامج التصوير التصويري agisoft photoscan</li>
+                    <li>مخطط الدقة precisionhawk/عارض</li>
                 </ul>
             </div>
-            <div class="col-md-5 text-center wow fadeInRight">
+            <div class="col-md-8 text-center wow fadeInRight">
                 <img src="images/work/work-drone.png" alt="">
             </div>
         </div>
@@ -115,66 +114,67 @@
 <!--=========================*
             Features
 *===========================-->
-<section id="rt_features">
+<section id="rt_features" class="product">
     <div class="container">
         <div class="row">
             <div class="mt_heading">
-                <h2 class="section_heading text-center"><span>الميزات</span></h2>
-                <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                <h2 class="section_heading text-center"><span>المميزات</span></h2>
+                <p class="heading_txt text-center"> </p>
             </div>
-            <div class="col-sm-4 col-md-4">
-                <div class="colum_left">
-                    <div class="block text-center">
-                        <i class="icon-documents"></i>
-                        <h4 class="text-center">وثق بشكل جيد</h4>
-                        <p>بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. </p>
-                        <div class="rt_pulse">
-                            <div class="rt_pulse_inner">Pulse Inner</div>
+            <div class="product_inner">
+                <div class="col-sm-3 col-md-3">
+                    <div class="colum_left">
+                        <div class="block text-center">
+                            <i class="icon-documents"></i>
+                            <h4 class="text-center">موثقه جيدا
+                            </h4>
+                            <div class="rt_pulse">
+                                <div class="rt_pulse_inner"></div>
+                            </div>
+                            <div class="rt_pulse">
+                                <div class="rt_pulses">Pulses</div>
+                            </div>
                         </div>
-                        <div class="rt_pulse">
-                            <div class="rt_pulses">Pulses</div>
-                        </div>
-                    </div>
-                    <div class="block text-center">
-                        <i class="icon-mobile"></i>
-                        <h4 class="text-center">تصميم متجاوب</h4>
-                        <p>بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن.</p>
-                        <div class="rt_pulse">
-                            <div class="rt_pulse_inner">Pulse Inner</div>
-                        </div>
-                        <div class="rt_pulse">
-                            <div class="rt_pulses">Pulses</div>
+                        <div class="block text-center">
+                            <i class="icon-mobile"></i>
+                            <h4 class="text-center">سهلة التحكم
+                            </h4>
+                            <div class="rt_pulse">
+                                <div class="rt_pulse_inner">Pulse Inner</div>
+                            </div>
+                            <div class="rt_pulse">
+                                <div class="rt_pulses">Pulses</div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-sm-4 col-md-4">
-                <div class="colum_center text-center wow fadeInUp">
-                    <img src="images/feature/feature-mobile.png" alt="">
-                </div>
-            </div>
-            <div class="col-sm-4 col-md-4">
-                <div class="colum_right">
-                    <div class="block text-center">
-                        <i class=" icon-genius"></i>
-                        <h4 class="text-center">خلاق</h4>
-                        <p>بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن.</p>
-                        <div class="rt_pulse">
-                            <div class="rt_pulse_inner">Pulse Inner</div>
-                        </div>
-                        <div class="rt_pulse">
-                            <div class="rt_pulses">Pulses</div>
-                        </div>
+                <div class="col-sm-6 col-md-6">
+                    <div class="colum_center text-center wow fadeInUp">
+                        <img src="images/feature/feature-img.png" alt="">
                     </div>
-                    <div class="block text-center">
-                        <i class="icon-layers"></i>
-                        <h4 class="text-center">تصميم بسيط</h4>
-                        <p>بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن.</p>
-                        <div class="rt_pulse">
-                            <div class="rt_pulse_inner">Pulse Inner</div>
+                </div>
+                <div class="col-sm-3 col-md-3">
+                    <div class="colum_right">
+                        <div class="block text-center">
+                            <i class=" icon-genius"></i>
+                            <h4 class="text-center">ابداعية</h4>
+                            <div class="rt_pulse">
+                                <div class="rt_pulse_inner">Pulse Inner</div>
+                            </div>
+                            <div class="rt_pulse">
+                                <div class="rt_pulses">Pulses</div>
+                            </div>
                         </div>
-                        <div class="rt_pulse">
-                            <div class="rt_pulses">Pulses</div>
+                        <div class="block text-center">
+                            <i class="icon-layers"></i>
+                            <h4 class="text-center">تصميم انيق
+                            </h4>
+                            <div class="rt_pulse">
+                                <div class="rt_pulse_inner">Pulse Inner</div>
+                            </div>
+                            <div class="rt_pulse">
+                                <div class="rt_pulses">Pulses</div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -189,40 +189,36 @@
 <!--=========================*
           ScreenShots
 *===========================-->
-<section id="rt_screenshots">
+<section id="rt_drone_screenshots">
     <div class="mt_heading_white">
-        <h2 class="section_heading text-center"><span>لقطات</span></h2>
-        <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+        <h2 class="section_heading text-center"><span>مجموعة صور متنوعة للدرونز</span></h2>
+        <p class="heading_txt text-center"></p>
     </div>
-    <div class="owl-carousel">
-        <div class="item">
-            <img src="images/screenshot/05.jpg" alt="">
-        </div>
-        <div class="item">
-            <img src="images/screenshot/01.jpg" alt="">
-        </div>
-        <div class="item">
-            <img src="images/screenshot/02.jpg" alt="">
-        </div>
-        <div class="item">
-            <img src="images/screenshot/03.jpg" alt="">
-        </div>
-        <div class="item">
-            <img src="images/screenshot/04.jpg" alt="">
-        </div>
-        <div class="item">
-            <img src="images/screenshot/06.jpg" alt="">
-        </div>
-        <div class="item">
-            <img src="images/screenshot/07.jpg" alt="">
-        </div>
-        <div class="item">
-            <img src="images/screenshot/08.jpg" alt="">
+    <div class="product_inner">
+        <div class="owl-carousel">
+            <div class="item">
+                <img src="images/screenshot/1.jpg" alt="">
+            </div>
+            <div class="item">
+                <img src="images/screenshot/2.jpg" alt="">
+            </div>
+            <div class="item">
+                <img src="images/screenshot/3.jpg" alt="">
+            </div>
+            <div class="item">
+                <img src="images/screenshot/4.jpg" alt="">
+            </div>
+            <div class="item">
+                <img src="images/screenshot/5.jpg" alt="">
+            </div>
+            <div class="item">
+                <img src="images/screenshot/6.jpg" alt="">
+            </div>
         </div>
     </div>
 </section>
 <!--=========================*
-        End ScreenShots
+        End	ScreenShots
 *===========================-->
 
 <!--=========================*
@@ -233,7 +229,7 @@
         <div class="row">
             <div class="mt_heading">
                 <h2 class="section_heading text-center"><span>أعضاء الفريق</span></h2>
-                <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                <p class="heading_txt text-center"> </p>
             </div>
             <div class="owl-carousel">
                 <!--Team Member-->
@@ -243,7 +239,7 @@
                             <figure class="member_item">
                                 <img src="images/team/team1.jpg" alt="sample110"/>
                                 <figcaption>
-                                    <h3>جايسون روي</h3>
+                                   <h3>ماجد عبد الغنى</h3>
                                     <p>Ceo / مؤسس</p>
                                 </figcaption>
                             </figure>
@@ -251,7 +247,7 @@
                     </div>
                 </div>
                 <!--Team Member-->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="col-md-12">
                         <div class="team_member">
                             <figure class="member_item">
@@ -263,9 +259,9 @@
                             </figure>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--Team Member-->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="col-md-12">
                         <div class="team_member">
                             <figure class="member_item">
@@ -277,9 +273,9 @@
                             </figure>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--Team Member-->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="col-md-12">
                         <div class="team_member">
                             <figure class="member_item">
@@ -291,9 +287,9 @@
                             </figure>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--Team Member-->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="col-md-12">
                         <div class="team_member">
                             <figure class="member_item">
@@ -305,9 +301,9 @@
                             </figure>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!--Team Member-->
-                <div class="item">
+                <!-- <div class="item">
                     <div class="col-md-12">
                         <div class="team_member">
                             <figure class="member_item">
@@ -319,7 +315,7 @@
                             </figure>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
             </div>
         </div>
@@ -339,8 +335,8 @@
         <div class="row">
             <div class="watch_content">
                 <a class="various fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/jid2A7ldc_8?autoplay=0"><img src="images/videobutton.png" alt="Play Button"></a>
-                <h1>شاهد تطبيقنا التجريبي</h1>
-                <p class="text-center">ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن, لكون أصقاع أي يتم. بحق إستيلاء الأوربيين مع.</p>
+                <h1>  </h1>
+                <p class="text-center">  </p>
             </div>
         </div>
     </div>
@@ -359,20 +355,20 @@
             <div class="col-md-12">
                 <div class="mt_heading">
                     <h2 class="section_heading text-center"><span>ماذا يقول عميلنا</span></h2>
-                    <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                    <p class="heading_txt text-center"></p>
                 </div>
                 <div class="owl-carousel">
                     <!-- Slide 1 -->
                     <div class="item">
                         <div class="testimonial_main">
                             <div class="col-xs-12">
-                                <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
+                                <p>من خلال تعاملي مع شركة حلول الدرونز المتكاملة لأكثر من عام ، وجدت المصداقية والشفافية مع العملاء و حرصهم على جودة المنتج هو سر نجاحهم ، والدليل تفردهم بسياسة الاستبدال المباشر اللي تثبت ثقتهم بمنتجاتهم ، أتوقع لهم نجاح كبير في السنين القادمة باذن الله.</p>
                                 <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial.jpg" alt="">
+                                    <img src="images/testimonial/testimonial.png" alt="">
                                 </div>
                                 <div class="client_name">
-                                    <em>أليكس هيل</em>
-                                    <span>الرئيس التنفيذي لشركة ريفو</span>
+                                    <em>التقني: عبدالله السبيعي</em>
+                                    <span></span>
                                 </div>
                             </div>
                         </div>
@@ -381,13 +377,13 @@
                     <div class="item">
                         <div class="testimonial_main">
                             <div class="col-xs-12">
-                                <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
+                                <p>عن تجربة الشركة  تتتميز بالمهنية والسعي لتقديم الأفضل للعميل سواء من حيث المنتجات ذات الجودة العالية او خدمة ما بعد البيع التي تحرص على ارضاء العميل</p>
                                 <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial2.jpg" alt="">
+                                    <img src="images/testimonial/testimonial2.png" alt="">
                                 </div>
                                 <div class="client_name">
-                                    <em>جيسيكا روي</em>
-                                    <span>المدير التنفيذي للأزياء</span>
+                                    <em>التقني: عبدالعزيز الرشيد</em>
+                                    <span></span>
                                 </div>
                             </div>
                         </div>
@@ -396,19 +392,19 @@
                     <div class="item">
                         <div class="testimonial_main">
                             <div class="col-xs-12">
-                                <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
+                                <p>من الجميل ان تجد متجرا لا يصب جل اهتمامه على الربح، بل يركز على التعامل والضمان الجيد والقيمة الممتدة للعميل، فانت الرابح بالجودة والسعر والضمان والتعامل الحسن</p>
                                 <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial3.jpg" alt="">
+                                    <img src="images/testimonial/testimonial3.png" alt="">
                                 </div>
                                 <div class="client_name">
-                                    <em>جاك</em>
-                                    <span>الرئيس التنفيذي لشركة ديزاين ستوديو</span>
+                                    <em>لتقني: فيصل السيف</em>
+                                    <span></span>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Slide 4 -->
-                    <div class="item">
+                    <!-- <div class="item">
                         <div class="testimonial_main">
                             <div class="col-xs-12">
                                 <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
@@ -421,9 +417,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Slide 5 -->
-                    <div class="item">
+                    <!-- <div class="item">
                         <div class="testimonial_main">
                             <div class="col-xs-12">
                                 <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
@@ -436,9 +432,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Slide 6 -->
-                    <div class="item">
+                    <!-- <div class="item">
                         <div class="testimonial_main">
                             <div class="col-xs-12">
                                 <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
@@ -451,7 +447,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
 
             </div>
@@ -466,7 +462,7 @@
           Fun And Facts
 *===========================-->
 
-<section id="mt_fun">
+<!-- <section id="mt_fun">
     <div class="container">
         <div class="row facts_row">
             <div class="mt_heading_white">
@@ -535,7 +531,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!--=========================*
         End Fun And Facts
@@ -547,10 +543,61 @@
 <section id="rt_pricing">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div class="mt_heading">
-                    <h2 class="section_heading text-center"><span>التسعير</span></h2>
-                    <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+            <div class="mt_heading">
+                <h2 class="section_heading text-center"><span>عروض الشراء </span></h2>
+                <p class="heading_txt text-center"> </p>
+            </div>
+            <div class="col-md-4">
+                <div class="main_pricing_conatiner highlight_pricing">
+                    <div class="price">
+                        <h2>
+                            <span class="price_icon">
+                               <img src="images/work/work-drone.png" width="100px">
+                            </span>دجى مافيك 2 انتربرايز</h2>
+                        <span class="price_tag">
+                        <span class="currency">$</span>299</span>
+                        <span class="per_month"></span>
+                    </div>
+                    <div class="price_listing">
+                        <ul>
+                            
+                          <li>من كاميرا 12 ميجابيكسل عاليه الدقة استقر جيمبال علي ثلاثه محاور;</li>
+                           <li>3x البصرية والتكبير 3x الرقمية;</li>
+                           <li>مثاليه لتحديد وتفتيش المناطق الخطرة أو التي يصعب الوصول اليها ؛</li>
+                           <li>بيانات موثوقه: تاريخ ووقت الحصول علي الصور ، وذلك لضمان الدقة في التدخل في حالات الطوارئ ؛</li>
+                           <li>سهله النقل:
+ فقط 905 جرام-طوي;
+الذاكرة الداخلية من 24 غيغابايت ؛</li>
+                           <li>بطاريات التدفئة الذاتية ؛</li>
+                           <li>تحسين الإرسال.</li>
+                        </ul>
+                    </div>
+                    <div class="choose_plan_btn">
+                        <a href="Product1.php" class="rt_btn_color">طلب شراء</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="main_pricing_conatiner ">
+                    <div class="price">
+                        <h2>
+                            <span class="price_icon">
+                                  <img src="images/feature/feature-img.png" width="100px">
+                                </span>دجى فانتوم 4 rtk</h2>
+                        <span class="price_tag">
+                                <span class="currency">$</span>700.00</span>
+                        <span class="per_month"></span>
+                    </div>
+                    <div class="price_listing">
+                        <ul>
+                        <li> GPS مع دقه سنتيمتري للتعيينات التصويرية والطبوغرافية.</li>
+                            
+                         
+                        </ul>
+                    </div>
+                    <div class="choose_plan_btn">
+                        <a href="Product2.php" class="rt_btn_white">طلب شراء</a>
+                    </div>
                 </div>
             </div>
             <div class="col-md-4">
@@ -558,73 +605,20 @@
                     <div class="price">
                         <h2>
                             <span class="price_icon">
-                                <i class="icon-wallet"></i>
-                            </span>Standard</h2>
+                                   <img src="images/banner-img.png" width="100px">
+                                </span>DJI فانتوم 4 rtk كومبو مع محطه متنقلة</h2>
                         <span class="price_tag">
-                        <span class="currency">$</span>0</span>
-                        <span class="per_month">/شهر</span>
+                                <span class="currency">$</span>800.00</span>
+                        <span class="per_month"></span>
                     </div>
                     <div class="price_listing">
                         <ul>
-                            <li>في قبل الثقيل واستمرت, مليون للمجهود بـ كان</li>
-                            <li>أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو</li>
-                            <li>أي هذا سبتمبر بأضرار, غير يقوم العالم</li>
-                            <li>في قبل الثقيل واستمرت</li>
-                            <li>في قبل الثقيل واستمرت, مليون للمجهود</li>
+                        <li>DJI فانتوم 4 rtk كومبو مع محطه متنقلة</li>
+                        <li>تحتوي هذه المجموعة علي كل من DJI فانتوم 4 rtk و D-rtk 2 محطه متنقلة ، مما يسمح لك لإنقاذ حوالي 16 ٪ بالمقارنة مع شراء منفصلة من اثنين من المنتجات.</li>
                         </ul>
                     </div>
                     <div class="choose_plan_btn">
-                        <a href="#" class="rt_btn_color">اختيار الخطة</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="main_pricing_conatiner highlight_pricing">
-                    <div class="price">
-                        <h2>
-                                <span class="price_icon">
-                                    <i class="icon-briefcase"></i>
-                                </span>تجارية (سابقا)</h2>
-                        <span class="price_tag">
-                                <span class="currency">$</span>90</span>
-                        <span class="per_month">/شهر</span>
-                    </div>
-                    <div class="price_listing">
-                        <ul>
-                            <li>في قبل الثقيل واستمرت, مليون للمجهود بـ كان</li>
-                            <li>أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو</li>
-                            <li>أي هذا سبتمبر بأضرار, غير يقوم العالم</li>
-                            <li>في قبل الثقيل واستمرت</li>
-                            <li>في قبل الثقيل واستمرت, مليون للمجهود</li>
-                        </ul>
-                    </div>
-                    <div class="choose_plan_btn">
-                        <a href="#" class="rt_btn_white">اختيار الخطة</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="main_pricing_conatiner">
-                    <div class="price">
-                        <h2>
-                                <span class="price_icon">
-                                    <i class="icon-genius"></i>
-                                </span>مشروع - مغامرة</h2>
-                        <span class="price_tag">
-                                <span class="currency">$</span>120</span>
-                        <span class="per_month">/شهر</span>
-                    </div>
-                    <div class="price_listing">
-                        <ul>
-                            <li>في قبل الثقيل واستمرت, مليون للمجهود بـ كان</li>
-                            <li>أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو</li>
-                            <li>أي هذا سبتمبر بأضرار, غير يقوم العالم</li>
-                            <li>في قبل الثقيل واستمرت</li>
-                            <li>في قبل الثقيل واستمرت, مليون للمجهود</li>
-                        </ul>
-                    </div>
-                    <div class="choose_plan_btn">
-                        <a href="#" class="rt_btn_color">اختيار الخطة</a>
+                        <a href="product3.php" class="rt_btn_color">طلب شراء</a>
                     </div>
                 </div>
             </div>
@@ -644,12 +638,14 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="mt_heading">
-                    <h2 class="section_heading text-center"><span>Our Blog</span></h2>
-                    <p class="heading_txt text-center"><i>Integrated drones solutions in biological precision farming</i> </p>
-                    <p class="heading_txt text-center">Drones for agriculture are precision aerial surveying instruments for precision agriculture, equipped with visible, multispectral and thermal sensors that provide quickly and easily crop status maps.</p>
-                    <p class="heading_txt text-center">Drones for agriculture are also tools for targeted low-cost, ecological and economical air distribution of products. It is possible to distribute from the low altitude above ground in an automatic and precise way, liquid products, granules, powders and capsules; the drone can import a map and quickly and effectively distribute the products exclusively in the areas that need them and in the appropriate quantity.</p>
+                    <h2 class="section_heading text-center"><span>  موضوعات عن استخدام الدرونز فى المجالات المختلفه</span></h2>
+                    <p class="heading_txt text-center">حلول متكاملة للطائرات بدون طيار في زراعه الدقة البيولوجية
 
-                    <p class="heading_txt text-center">Through automatic flights, programmed simply through the APP BLY3D of AERMATICA3D, you can make quick surveys and distribution of products optimized in a repeatable and economic way, without polluting for a BIOSOSTENIBLE AGRICULTURE IN RESPECT OF THE ENVIRONMENT.</p>
+طائرات بدون طيار للزراعة هي أدوات المسح الجوي الدقة للزراعة الدقيقة ، مجهزه باجهزه استشعار مرئية ومتعددة الأطياف والحرارية التي توفر بسرعة وسهوله المحاصيل خرائط الوضع. </p>
+                    <p class="heading_txt text-center">طائرات بدون طيار للزراعة هي أيضا أدوات لتوزيع الهواء المستهدفة منخفضه التكلفة والايكولوجيه والاقتصادية للمنتجات. فمن الممكن لتوزيع من الارتفاع المنخفض فوق سطح الأرض بطريقه تلقائية ودقيقه ، والمنتجات السائلة ، والحبيبات ، ومساحيق وكبسولات ؛ يمكن لطائره بدون طيار استيراد خريطة وبسرعة وفعالية توزيع المنتجات حصرا في المناطق التي تحتاج اليها الكمية المناسبة.</p>
+                    <p class="heading_txt text-center">يمكنك اجراء مسوحات سريعة وتوزيع المنتجات الأمثل بطريقه قابله للتكرار والاقتصادية</p>
+
+                    <p class="heading_txt text-center"></p>
                 </div>
             </div>
             <!--=== Post Item ===-->

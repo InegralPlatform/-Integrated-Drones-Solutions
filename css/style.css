@@ -908,7 +908,7 @@ input[type="submit"]:focus {
 
 @media only screen and (max-width: 991px) {
     #rt_header nav #navigation .navbar.navbar-default.reveal-menu-home.sticky-nav .logo img.sticky_logo {
-        left: 50%;
+        left: 25%;
         transform: translate(-50%, 0px);
     }
 }

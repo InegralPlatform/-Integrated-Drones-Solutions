@@ -7,7 +7,7 @@
     *===========================-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pixaar is Creative App Landing Page & Product Showcase Landing Page">
+    <meta name="description" content="حلول الدرونز المتكاملة">
 
     <!--=========================*
               Page Title

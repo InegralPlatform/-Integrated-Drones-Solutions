@@ -735,7 +735,7 @@
         </div>
         <div class="row">
             <div class="col-md-12 text-center">
-                <a href="rtl_blog.php" class="rt_btn_color rt_view_btn">عرض  جميع المواضيع</a>
+                <a href="blog.php" class="rt_btn_color rt_view_btn">عرض  جميع المواضيع</a>
             </div>
         </div>
     </div>

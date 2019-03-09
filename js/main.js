@@ -7,7 +7,7 @@ Version: 1.0
 Author: Raventhemez
 Author URI: https://themeforest.net/user/raventhemez
 If you having trouble in editing js. please send a mail to raventhemez@gmail.com
- 
+
 =========================================================================
  */
 
@@ -22,7 +22,7 @@ jQuery(document).ready(function () {
     var $window = $(window);
 
 
-    
+
 
     /*======= jQuery navbar on scroll =========*/
 
@@ -125,7 +125,7 @@ jQuery(document).ready(function () {
 
     /*========== End Masonry Grid ==========*/
 
-    
+
     /*======== ScreenShot Section =========*/
 
     $("#rt_screenshots .owl-carousel").owlCarousel({
@@ -266,14 +266,14 @@ jQuery(document).ready(function () {
 
 
     /*======== Youtube Background Init =========*/
-    
+
     $("#bgndVideo").YTPlayer();
 
     /*======== End Youtube Background Init =========*/
 
 
     /*======== Fancy Box Init ========*/
-    
+
     $(".various").fancybox({
         maxWidth: 800,
         maxHeight: 600,
@@ -295,7 +295,7 @@ jQuery(document).ready(function () {
 
     //CACHE JQUERY OBJECTS
     var $window = $(window);
-    
+
     $window.on( 'load', function () {
 
         /*======== Preloader =========*/
@@ -308,4 +308,29 @@ jQuery(document).ready(function () {
         /*========== End Init Wow ==========*/
     });
 
+    var spin = new TimelineMax();
+    var loading = new TimelineMax({
+        repeat: -1
+    });
+
+    spin.to($('.blade'), 0.6, {
+        rotation: 360,
+        repeat: -1,
+        transformOrigin: '50% 50%',
+        ease: Linear.easeNone
+    });
+
+    loading.to($('.loadingText'), 1, {
+            opacity: 0,
+            ease: Linear.easeNone
+        })
+        .to($('.loadingText'), 1, {
+            opacity: 1,
+            ease: Linear.easeNone
+        });
+
+    // example js to make a fade out when the page is done loading
+    /* $(window).load(function() {
+    		$(".se-pre-con").fadeOut("slow");;
+    	}); */
 /*======== End On Load Function =========*/

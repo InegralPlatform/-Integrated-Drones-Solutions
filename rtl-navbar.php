@@ -24,12 +24,12 @@
                             </div> <!-- .navbar-header -->
                             <div class="navbar-collapse collapse">
                                 <ul class="nav navbar-nav navbar-right text-center">
-                                    <li class="active"><a href="rtl_index.php#top">الصفحة الرئيسية</a></li>
+                                    <li><a href="rtl_index.php#top">الصفحة الرئيسية</a></li>
                                     <li><a href="rtl-index.php#rt_services">خدمات</a></li>
                                     <li><a href="rtl-index.php#rt_features">الميزات</a></li>
                                     <li><a href="rtl-index.php#rt_screenshots">لقطات</a></li>
                                     <li><a href="rtl-index.php#rt_team">الفريق</a></li>
-                                  
+
                                     <li><a href="rtl-index.php#rt_pricing">المتجر</a></li>
                                     <li><a href="rtl-index.php#rt_blog">مدونة</a></li>
                                     <li><a href="index.php">English</a></li>

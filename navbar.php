@@ -27,7 +27,7 @@
                             <!-- .navbar-header -->
                             <div class="navbar-collapse collapse">
                                 <ul class="nav navbar-nav navbar-right">
-                                    <li class="active"><a href="index.php"> Home</a></li>
+                                    <li><a href="index.php"> Home</a></li>
                                     <li><a href="index.php#rt_services">Services</a></li>
                                     <li><a href="index.php#rt_features">Features</a></li>
                                     <li><a href="index.php#rt_drone_screenshots">Screenshots</a></li>

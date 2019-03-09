@@ -32,12 +32,12 @@
         <div class="row">
             <div class="mt_heading">
                 <h2 class="section_heading text-center"><span>خدمات</span></h2>
-                <p class="heading_txt text-center">حن نطور برامج تطبيقي محدده للتخطيط الطيران الألى وأداره البعثات بدون طيار.</p>  
+                <p class="heading_txt text-center">حن نطور برامج تطبيقي محدده للتخطيط الطيران الألى وأداره البعثات بدون طيار.</p>
                  <p class="heading_txt text-center">نحن نقدم المنتجات المتكاملة والصناعية المرتبطة بالتدريب اللازم للتطبيق لجعل العميل قادرا علي استخدام مستقل.
 
 </p>
                 <p class="heading_txt text-center">ونحن ندرك التطورات الهندسيةالكبيرة لذلك قمنا بتصميمها خصيصا لاستكمال منصات الطيران الأمنه وباسعار معقولة ، وتعمل وفقا لاحتياجات تطبيقي وأذون هيئه الطيران المدني.</p>
-              
+
 
             </div>
             <div class="col-md-4">
@@ -46,7 +46,7 @@
                         <i class="icon-tools"></i>
                     </div>
                     <h3>تصميم انيق</h3>
-             
+
                 </div>
             </div>
             <div class="col-md-4">
@@ -55,7 +55,7 @@
                         <i class="icon-heart"></i>
                     </div>
                     <h3>مصنوع خصيصا لك</h3>
-               
+
                 </div>
             </div>
             <div class="col-md-4">
@@ -64,7 +64,7 @@
                         <i class="icon-tools-2"></i>
                     </div>
                     <h3>سهله الاستخدام</h3>
-                    
+
                 </div>
             </div>
         </div>
@@ -84,12 +84,12 @@
                 <h2 class="section_heading text-center"><span>كيف تعمل طائرات بدون طيار وما هي تكنولوجيا الطائرات بدون طيار</span></h2>
                 <p class="heading_txt text-center"> </p>
                 <p class="heading_txt text-center">الطائرات بدون طيار هي أساسا الاجهزه التي تسيطر عليها عن بعد ، التي لديها القدرة علي الطيران باستخدام الدوارات المقدمة ، والتي يمكن التحكم لاسلكيا باستخدام جهاز الإرسال لاسلكي. الطائرات بدون طيار عاده ما تكون اللعب ، ولكن هذه الأيام تطبيقاتها تتراوح من التصوير إلى المراقبة لرصد وأداره المحاصيل الخ. معظم الطائرات بدون طيار هذه الأيام عاده ما تكون مصنوعة من مواد مثل البلاستيك الصلب ولكن في بعض النماذج باهظه الثمن ، وتستخدم أيضا ألياف الكربون والتيتانيوم.</p>
-           
+
                 <p class="heading_txt text-center"></p>
             </div>
             <div class="col-md-4 work_description">
                 <h3>سوف تحصل على ؟ </h3>
-              
+
                 <ul>
                 <li></li>
                 <li>dronedeploy حلول الخرائط ثلاثية الابعاد</li>
@@ -224,16 +224,16 @@
 <!--=========================*
             Team
 *===========================-->
-<section id="rt_team">
+<!--<section id="rt_team">
     <div class="container">
         <div class="row">
             <div class="mt_heading">
                 <h2 class="section_heading text-center"><span>أعضاء الفريق</span></h2>
                 <p class="heading_txt text-center"> </p>
             </div>
-            <div class="owl-carousel">
+            <div class="owl-carousel">-->
                 <!--Team Member-->
-                <div class="item">
+              <!--  <div class="item">
                     <div class="col-md-12">
                         <div class="team_member">
                             <figure class="member_item">
@@ -245,7 +245,7 @@
                             </figure>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <!--Team Member-->
                 <!-- <div class="item">
                     <div class="col-md-12">
@@ -317,10 +317,10 @@
                     </div>
                 </div> -->
 
-            </div>
+          <!--  </div>
         </div>
     </div>
-</section>
+</section>-->
 <!--=========================*
           End Team
 *===========================-->
@@ -560,7 +560,7 @@
                     </div>
                     <div class="price_listing">
                         <ul>
-                            
+
                           <li>من كاميرا 12 ميجابيكسل عاليه الدقة استقر جيمبال علي ثلاثه محاور;</li>
                            <li>3x البصرية والتكبير 3x الرقمية;</li>
                            <li>مثاليه لتحديد وتفتيش المناطق الخطرة أو التي يصعب الوصول اليها ؛</li>
@@ -591,8 +591,8 @@
                     <div class="price_listing">
                         <ul>
                         <li> GPS مع دقه سنتيمتري للتعيينات التصويرية والطبوغرافية.</li>
-                            
-                         
+
+
                         </ul>
                     </div>
                     <div class="choose_plan_btn">

@@ -4,6 +4,9 @@
             Contact
 *===========================-->
 <section id="rt_contact">
+  <form action="formProcess.php" method="post">
+
+
     <div class="mt_heading">
         <h2 class="section_heading text-center"><span>Contact Us</span></h2>
         <p class="heading_txt text-center">Contact us freely Treat yourself completely as if you were in your home</p>
@@ -70,8 +73,8 @@
             </div>
         </div>
     </div>
+    </form>
 </section>
 <!--=========================*
           End Contact
 *===========================-->
-

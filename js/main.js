@@ -314,7 +314,7 @@ jQuery(document).ready(function () {
     });
 
     spin.to($('.blade'), 0.6, {
-        rotation: 360,
+        rotation: 3600,
         repeat: -1,
         transformOrigin: '50% 50%',
         ease: Linear.easeNone

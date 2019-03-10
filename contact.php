@@ -33,7 +33,7 @@
                                     <i class="icon-alarmclock"></i>
                                     <h5>Available Time</h5>
                                     <p>Monday - Saturday</p>
-                                    <p>9:00am - 8:00pm</p>
+                                    <p>9:00am - 5:00pm</p>
                                 </div>
                             </div>
                         </div>
@@ -51,7 +51,7 @@
                                 <div class="email">
                                     <i class="icon-envelope"></i>
                                     <h5>Email</h5>
-                                    <p><a href="majidyat@gmail.com">majidyat@gmail.com</a></p>
+                                    <p><a href="majidyat@gmail.com">Hallo@iPlatform.co</a></p>
                                 </div>
                             </div>
                         </div>

@@ -1053,7 +1053,9 @@ input[type="submit"]:focus {
     padding: 0;
     margin-bottom: 0;
     margin-left: 20px;
+    
 }
+
 
 @media only screen and (min-width: 991px) and (max-width: 1200px) {
     #rt_header nav #navigation .navbar.navbar-default .navbar-collapse ul.nav.navbar-nav li {

@@ -1,12 +1,26 @@
-<?php include 'header.php';?>
-<?php include 'loader.php';?>
+﻿<?php include 'arabic/partials/rtl-header.php';?>
+<!--
+=================================
+            PRELOADER
+=================================
+-->
 
+<?php include 'arabic/partials/rtl_loading.php';?>
+
+<!-- End Preloader -->
 <div id="top"></div>
-<?php include 'navbar.php';?>
 <!--=========================*
-        Banner
+            Header
 *===========================-->
-<?php include 'banner.php';?>
+<?php include 'arabic/partials/rtl-navbar.php';?>
+<!--=========================*
+           End Header
+*===========================-->
+<!--=========================*
+            Banner
+*===========================-->
+
+<?php include 'arabic/partials/rtl_banner.php';?>
 <!--=========================*
             End	Banner
 *===========================-->
@@ -17,19 +31,22 @@
     <div class="container">
         <div class="row">
             <div class="mt_heading">
-                <h2 class="section_heading text-center"><span>Our Services</span></h2>
-                <p class="heading_txt text-center">For every specific application needs we select the best fitting drone, best performing sensors and we develop specific applicative software for automatic flight planning and drone mission management. </p>
-                <p class="heading_txt text-center">For every specific application needs we select the best fitting drone, best performing sensors and we develop specific applicative software for automatic flight planning and drone mission management.</p>
-                <p class="heading_txt text-center">We realize customized engineered developments completing safe and affordable flying platforms, operated according to applicative needs and Civil Aviation Authority authorizations.</p>
-                <p class="heading_txt text-center">we provide the integrated and industrialized products correlated by the necessary training for the application to make the Customer able for an independent use.</p>
+                <h2 class="section_heading text-center"><span>خدمات</span></h2>
+                <p class="heading_txt text-center">حن نطور برامج تطبيقي محدده للتخطيط الطيران الألى وأداره البعثات بدون طيار.</p>
+                 <p class="heading_txt text-center">نحن نقدم المنتجات المتكاملة والصناعية المرتبطة بالتدريب اللازم للتطبيق لجعل العميل قادرا علي استخدام مستقل.
+
+</p>
+                <p class="heading_txt text-center">ونحن ندرك التطورات الهندسيةالكبيرة لذلك قمنا بتصميمها خصيصا لاستكمال منصات الطيران الأمنه وباسعار معقولة ، وتعمل وفقا لاحتياجات تطبيقي وأذون هيئه الطيران المدني.</p>
+
+
             </div>
             <div class="col-md-4">
                 <div class="box text-center">
                     <div class="icon">
                         <i class="icon-tools"></i>
                     </div>
-                    <h3>Clean Design</h3>
-                  
+                    <h3>تصميم انيق</h3>
+
                 </div>
             </div>
             <div class="col-md-4">
@@ -37,8 +54,8 @@
                     <div class="icon">
                         <i class="icon-heart"></i>
                     </div>
-                    <h3>Made With Love</h3>
-                    
+                    <h3>مصنوع خصيصا لك</h3>
+
                 </div>
             </div>
             <div class="col-md-4">
@@ -46,8 +63,8 @@
                     <div class="icon">
                         <i class="icon-tools-2"></i>
                     </div>
-                    <h3>Easy To Customize</h3>
-                    
+                    <h3>سهله الاستخدام</h3>
+
                 </div>
             </div>
         </div>
@@ -62,26 +79,26 @@
 *===========================-->
 <section id="rt_how_it_works">
     <div class="container">
-        <div class="row">
+    <div class="row">
             <div class="mt_heading">
-                <h2 class="section_heading text-center"><span>How Do Drones Work And What Is Drone Technology</span></h2>
-                <p class="heading_txt text-center">Drones are basically remote-controlled devices, that have the capability to fly using the provided rotors, and which can be controlled wirelessly using a wireless transmitter. Drones are usually toys, but these days their applications range from photography to surveillance to monitoring and managing crops etc. Most drones these days are usually made of materials like hard plastics but in some expensive models, carbon fibre and titanium are also used. </p>
-                <p class="heading_txt text-center">Now , drones have a central PCB or the Printed Circuit Board which acts as the brain of the drone. It has all the connectivity ports and flight controls attached to it. Parts such as gimbals, gyroscopes and accelerometers are attached to this PCB . The drone has a main body which houses these components , among other components such as the rotors, battery etc.</p>
-                <p class="heading_txt text-center">The movement and flight of the drone is usually controlled by 4 to 8 rotors which are attached to it on arms, thereby also giving it the name of octacopter. The left - right movement is controlled by slowing the rotors in the direction, which we need to go.</p>
+                <h2 class="section_heading text-center"><span>كيف تعمل طائرات بدون طيار وما هي تكنولوجيا الطائرات بدون طيار</span></h2>
+                <p class="heading_txt text-center"> </p>
+                <p class="heading_txt text-center">الطائرات بدون طيار هي أساسا الاجهزه التي تسيطر عليها عن بعد ، التي لديها القدرة علي الطيران باستخدام الدوارات المقدمة ، والتي يمكن التحكم لاسلكيا باستخدام جهاز الإرسال لاسلكي. الطائرات بدون طيار عاده ما تكون اللعب ، ولكن هذه الأيام تطبيقاتها تتراوح من التصوير إلى المراقبة لرصد وأداره المحاصيل الخ. معظم الطائرات بدون طيار هذه الأيام عاده ما تكون مصنوعة من مواد مثل البلاستيك الصلب ولكن في بعض النماذج باهظه الثمن ، وتستخدم أيضا ألياف الكربون والتيتانيوم.</p>
+
                 <p class="heading_txt text-center"></p>
             </div>
             <div class="col-md-4 work_description">
-                <h3>What you get </h3>
-              <p></p>
+                <h3>سوف تحصل على ؟ </h3>
+
                 <ul>
-                    <li>DroneDeploy 3D Mapping Solutions
-                    </li>
-                    <li>Pix4D Mapper Photogrammetry Software</li>
-                    <li>AutoDesk ReCap Photogrammetry Software</li>
-                    <li>Maps Made Easy – Orthophoto and 3D Models.</li>
-                    <li>3DF Zephyr Photogrammetry Software</li>
-                    <li>Agisoft PhotoScan Photogrammetry Software</li>
-                    <li></li>
+                <li></li>
+                <li>dronedeploy حلول الخرائط ثلاثية الابعاد</li>
+                <li>Pix4D مخطط التصوير التصويري البرمجيات</li>
+                <li>برنامج اوتوديسك خلاصه الصور التصويرية</li>
+                    <li>الخرائط سهله الصنع – النماذج الجراحية والثلاثية الابعاد.</li>
+                     <li>3df الزفير التصويري البرمجيات</li>
+                    <li>برنامج التصوير التصويري agisoft photoscan</li>
+                    <li>مخطط الدقة precisionhawk/عارض</li>
                 </ul>
             </div>
             <div class="col-md-8 text-center wow fadeInRight">
@@ -91,7 +108,7 @@
     </div>
 </section>
 <!--=========================*
-            End	Work
+            End Work
 *===========================-->
 
 <!--=========================*
@@ -101,7 +118,7 @@
     <div class="container">
         <div class="row">
             <div class="mt_heading">
-                <h2 class="section_heading text-center"><span>Features</span></h2>
+                <h2 class="section_heading text-center"><span>المميزات</span></h2>
                 <p class="heading_txt text-center"> </p>
             </div>
             <div class="product_inner">
@@ -109,10 +126,10 @@
                     <div class="colum_left">
                         <div class="block text-center">
                             <i class="icon-documents"></i>
-                            <h4 class="text-center">Well Documented
+                            <h4 class="text-center">موثقه جيدا
                             </h4>
                             <div class="rt_pulse">
-                                <div class="rt_pulse_inner">Pulse Inner</div>
+                                <div class="rt_pulse_inner"></div>
                             </div>
                             <div class="rt_pulse">
                                 <div class="rt_pulses">Pulses</div>
@@ -120,7 +137,7 @@
                         </div>
                         <div class="block text-center">
                             <i class="icon-mobile"></i>
-                            <h4 class="text-center">Easy Control
+                            <h4 class="text-center">سهلة التحكم
                             </h4>
                             <div class="rt_pulse">
                                 <div class="rt_pulse_inner">Pulse Inner</div>
@@ -140,7 +157,7 @@
                     <div class="colum_right">
                         <div class="block text-center">
                             <i class=" icon-genius"></i>
-                            <h4 class="text-center">Creative</h4>
+                            <h4 class="text-center">ابداعية</h4>
                             <div class="rt_pulse">
                                 <div class="rt_pulse_inner">Pulse Inner</div>
                             </div>
@@ -150,7 +167,7 @@
                         </div>
                         <div class="block text-center">
                             <i class="icon-layers"></i>
-                            <h4 class="text-center">Simple Design
+                            <h4 class="text-center">تصميم انيق
                             </h4>
                             <div class="rt_pulse">
                                 <div class="rt_pulse_inner">Pulse Inner</div>
@@ -174,7 +191,7 @@
 *===========================-->
 <section id="rt_drone_screenshots">
     <div class="mt_heading_white">
-        <h2 class="section_heading text-center"><span>Drone Images</span></h2>
+        <h2 class="section_heading text-center"><span>مجموعة صور متنوعة للدرونز</span></h2>
         <p class="heading_txt text-center"></p>
     </div>
     <div class="product_inner">
@@ -205,115 +222,107 @@
 *===========================-->
 
 <!--=========================*
-          Testimonial
+            Team
 *===========================-->
-<!-- <section id="rt_testimonial">
+<!--<section id="rt_team">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div class="mt_heading">
-                    <h2 class="section_heading text-center"><span>What our Client Says</span></h2>
-                    <p class="heading_txt text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
-                </div>
-                <div class="owl-carousel">
-                    
-                    <div class="item">
-                        <div class="testimonial_main">
-                            <div class="col-xs-12">
-                                <p>lIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial.jpg" alt="">
-                                </div>
-                                <div class="client_name">
-                                    <em>Alex Hale</em>
-                                    <span>CEO of Revo</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <div class="testimonial_main">
-                            <div class="col-xs-12">
-                                <p>lIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial2.jpg" alt="">
-                                </div>
-                                <div class="client_name">
-                                    <em>Jessica Roy</em>
-                                    <span>CEO of Fashion</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <div class="testimonial_main">
-                            <div class="col-xs-12">
-                                <p>lIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial3.jpg" alt="">
-                                </div>
-                                <div class="client_name">
-                                    <em>Jack</em>
-                                    <span>CEO of Design Studio</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-               
-                    <div class="item">
-                        <div class="testimonial_main">
-                            <div class="col-xs-12">
-                                <p>lIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial4.jpg" alt="">
-                                </div>
-                                <div class="client_name">
-                                    <em>Alexa Jhon</em>
-                                    <span>CEO of Mobile Studio</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                
-                    <div class="item">
-                        <div class="testimonial_main">
-                            <div class="col-xs-12">
-                                <p>lIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial5.jpg" alt="">
-                                </div>
-                                <div class="client_name">
-                                    <em>Davidson</em>
-                                    <span>CEO of VIOS</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                   
-                    <div class="item">
-                        <div class="testimonial_main">
-                            <div class="col-xs-12">
-                                <p>lIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="mt_testimonial_img">
-                                    <img src="images/testimonial/testimonial6.jpg" alt="">
-                                </div>
-                                <div class="client_name">
-                                    <em>Jessica Stone</em>
-                                    <span>CEO of Tesla</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
+            <div class="mt_heading">
+                <h2 class="section_heading text-center"><span>أعضاء الفريق</span></h2>
+                <p class="heading_txt text-center"> </p>
             </div>
+            <div class="owl-carousel">-->
+                <!--Team Member-->
+              <!--  <div class="item">
+                    <div class="col-md-12">
+                        <div class="team_member">
+                            <figure class="member_item">
+                                <img src="images/team/team1.jpg" alt="sample110"/>
+                                <figcaption>
+                                   <h3>ماجد عبد الغنى</h3>
+                                    <p>Ceo / مؤسس</p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div>-->
+                <!--Team Member-->
+                <!-- <div class="item">
+                    <div class="col-md-12">
+                        <div class="team_member">
+                            <figure class="member_item">
+                                <img src="images/team/team2.jpg" alt="sample110"/>
+                                <figcaption>
+                                    <h3>جيسيكا ديفيد</h3>
+                                    <p>شريك مؤسس</p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div> -->
+                <!--Team Member-->
+                <!-- <div class="item">
+                    <div class="col-md-12">
+                        <div class="team_member">
+                            <figure class="member_item">
+                                <img src="images/team/team3.jpg" alt="sample110"/>
+                                <figcaption>
+                                    <h3>ميشال هازي</h3>
+                                    <p>مدير المشروع</p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div> -->
+                <!--Team Member-->
+                <!-- <div class="item">
+                    <div class="col-md-12">
+                        <div class="team_member">
+                            <figure class="member_item">
+                                <img src="images/team/team4.jpg" alt="sample110"/>
+                                <figcaption>
+                                    <h3>مونيكا جون</h3>
+                                    <p>تصميم الرصاص</p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div> -->
+                <!--Team Member-->
+                <!-- <div class="item">
+                    <div class="col-md-12">
+                        <div class="team_member">
+                            <figure class="member_item">
+                                <img src="images/team/team5.jpg" alt="sample110"/>
+                                <figcaption>
+                                    <h3>ديفيدسون</h3>
+                                    <p>الرصاص التنمية</p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div> -->
+                <!--Team Member-->
+                <!-- <div class="item">
+                    <div class="col-md-12">
+                        <div class="team_member">
+                            <figure class="member_item">
+                                <img src="images/team/team6.jpg" alt="sample110"/>
+                                <figcaption>
+                                    <h3>Jenifer Lance</h3>
+                                    <p>مدير التسويق</p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div> -->
+
+          <!--  </div>
         </div>
     </div>
-</section> -->
+</section>-->
 <!--=========================*
-        End	Testimonial
+          End Team
 *===========================-->
 
 <!--=========================*
@@ -326,8 +335,8 @@
         <div class="row">
             <div class="watch_content">
                 <a class="various fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/jid2A7ldc_8?autoplay=0"><img src="images/videobutton.png" alt="Play Button"></a>
-                <h1>See Drone in Action</h1>
-                <p class="text-center"></p>
+                <h1>  </h1>
+                <p class="text-center">  </p>
             </div>
         </div>
     </div>
@@ -338,92 +347,200 @@
 *===========================-->
 
 <!--=========================*
-            Pricing
+          Testimonial
 *===========================-->
-<section id="rt_pricing">
+<section id="rt_testimonial">
     <div class="container">
         <div class="row">
-            <div class="mt_heading">
-                <h2 class="section_heading text-center"><span>STORE ONLINE</span></h2>
-                <p class="heading_txt text-center"> </p>
-            </div>
-            <div class="col-md-4">
-                <div class="main_pricing_conatiner">
-                    <div class="price">
-                        <h2>
-                            <span class="price_icon">
-                               <img src="images/work/work-drone.png" width="100px">
-                            </span>DJI MAVIC 2 ENTERPRISE</h2>
-                        <span class="price_tag">
-                        <span class="currency">$</span>299</span>
-                        <span class="per_month"></span>
-                    </div>
-                    <div class="price_listing">
-                        <ul>
-                            <li>Fotocamera da 12 megapixel ad alta risoluzione stabilizzata su un gimbal a tre assi;</li>
-                            <li>Zoom ottico 2X e digitale di 3X;</li>
-                            <li>Ideale per identificare e ispezionare aree pericolose o difficili da raggiungere;</li>
-                          
-                          
-                          
-                        </ul>
-                    </div>
-                    <div class="choose_plan_btn">
-                        <a href="Product1.php" class="rt_btn_color">Add To Bag</a>
-                    </div>
+            <div class="col-md-12">
+                <div class="mt_heading">
+                    <h2 class="section_heading text-center"><span>ماذا يقول عميلنا</span></h2>
+                    <p class="heading_txt text-center"></p>
                 </div>
-            </div>
-            <div class="col-md-4">
-                <div class="main_pricing_conatiner highlight_pricing">
-                    <div class="price">
-                        <h2>
-                            <span class="price_icon">
-                                  <img src="images/feature/feature-img.png" width="100px">
-                                </span>DJI PHANTOM 4 RTK</h2>
-                        <span class="price_tag">
-                                <span class="currency">$</span>700.00</span>
-                        <span class="per_month"></span>
+                <div class="owl-carousel">
+                    <!-- Slide 1 -->
+                    <div class="item">
+                        <div class="testimonial_main">
+                            <div class="col-xs-12">
+                                <p>من خلال تعاملي مع شركة حلول الدرونز المتكاملة لأكثر من عام ، وجدت المصداقية والشفافية مع العملاء و حرصهم على جودة المنتج هو سر نجاحهم ، والدليل تفردهم بسياسة الاستبدال المباشر اللي تثبت ثقتهم بمنتجاتهم ، أتوقع لهم نجاح كبير في السنين القادمة باذن الله.</p>
+                                <div class="mt_testimonial_img">
+                                    <img src="images/testimonial/testimonial.png" alt="">
+                                </div>
+                                <div class="client_name">
+                                    <em>التقني: عبدالله السبيعي</em>
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="price_listing">
-                        <ul>
-                        <li>Fotocamera da 12 megapixel ad alta risoluzione stabilizzata su un gimbal a tre assi;</li>
-                            <li>Zoom ottico 2X e digitale di 3X;</li>
-                            <li>Ideale per identificare e ispezionare aree pericolose o difficili da raggiungere;</li>
-                           
-                            <li>Facile da trasportare: solo 905 grammi – pieghevole;</li>
-                         
-                        </ul>
+                    <!-- Slide 2 -->
+                    <div class="item">
+                        <div class="testimonial_main">
+                            <div class="col-xs-12">
+                                <p>عن تجربة الشركة  تتتميز بالمهنية والسعي لتقديم الأفضل للعميل سواء من حيث المنتجات ذات الجودة العالية او خدمة ما بعد البيع التي تحرص على ارضاء العميل</p>
+                                <div class="mt_testimonial_img">
+                                    <img src="images/testimonial/testimonial2.png" alt="">
+                                </div>
+                                <div class="client_name">
+                                    <em>التقني: عبدالعزيز الرشيد</em>
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="choose_plan_btn">
-                        <a href="Product2.php" class="rt_btn_white">Add To Bag</a>
+                    <!-- Slide 3 -->
+                    <div class="item">
+                        <div class="testimonial_main">
+                            <div class="col-xs-12">
+                                <p>من الجميل ان تجد متجرا لا يصب جل اهتمامه على الربح، بل يركز على التعامل والضمان الجيد والقيمة الممتدة للعميل، فانت الرابح بالجودة والسعر والضمان والتعامل الحسن</p>
+                                <div class="mt_testimonial_img">
+                                    <img src="images/testimonial/testimonial3.png" alt="">
+                                </div>
+                                <div class="client_name">
+                                    <em>لتقني: فيصل السيف</em>
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                    <!-- Slide 4 -->
+                    <!-- <div class="item">
+                        <div class="testimonial_main">
+                            <div class="col-xs-12">
+                                <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
+                                <div class="mt_testimonial_img">
+                                    <img src="images/testimonial/testimonial4.jpg" alt="">
+                                </div>
+                                <div class="client_name">
+                                    <em>اليكسا جون</em>
+                                    <span>الرئيس التنفيذي لشركة موبايل ستوديو</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- Slide 5 -->
+                    <!-- <div class="item">
+                        <div class="testimonial_main">
+                            <div class="col-xs-12">
+                                <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
+                                <div class="mt_testimonial_img">
+                                    <img src="images/testimonial/testimonial5.jpg" alt="">
+                                </div>
+                                <div class="client_name">
+                                    <em>ديفيدسون</em>
+                                    <span>الرئيس التنفيذي لشركة فيوس</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- Slide 6 -->
+                    <!-- <div class="item">
+                        <div class="testimonial_main">
+                            <div class="col-xs-12">
+                                <p>ي قبل الثقيل واستمرت, مليون للمجهود بـ كان. أي هذا سبتمبر بأضرار, غير يقوم العالم الباهضة عل. أي أوزار يونيو بالفشل شيء. لهذه إجلاء في ذات. دول عن ببعض الجديدة،, أمّا لإعادة الخارجية فعل أن.</p>
+                                <div class="mt_testimonial_img">
+                                    <img src="images/testimonial/testimonial6.jpg" alt="">
+                                </div>
+                                <div class="client_name">
+                                    <em>Jessica Stone</em>
+                                    <span>الرئيس التنفيذي لشركة تسلا</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
                 </div>
-            </div>
-            <div class="col-md-4">
-                <div class="main_pricing_conatiner">
-                    <div class="price">
-                        <h2>
-                            <span class="price_icon">
-                                   <img src="images/banner-img.png" width="100px">
-                                </span>Enterprise</h2>
-                        <span class="price_tag">
-                                <span class="currency">$</span>800.00</span>
-                        <span class="per_month"></span>
-                    </div>
-                    <div class="price_listing">
-                        <ul>
-                        <li>DJI Phantom 4 RTK Combo con Mobile Station</li>
-                         <li>Questo kit contiene sia il DJI Phantom 4 RTK che la D-RTK 2 Mobile Station, permettendoti di risparmiare circa il 16% rispetto all’acquisto separato dei due prodotti.</li>
-                        </ul>
-                    </div>
-                    <div class="choose_plan_btn">
-                        <a href="product3.php" class="rt_btn_color">Add To Bag</a>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
 </section>
+<!--=========================*
+        End Testimonial
+*===========================-->
+
+<!--=========================*
+          Fun And Facts
+*===========================-->
+
+<!-- <section id="mt_fun">
+    <div class="container">
+        <div class="row facts_row">
+            <div class="mt_heading_white">
+                <h2 class="section_heading text-center"><span>المرح والحقائق</span></h2>
+                <p class="heading_txt text-center">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من. </p>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 facts_col">
+                <div class="fun-facts_wrapper">
+                    <div class="fun-facts_contain">
+                        <p>
+                            <i class="icon-download"></i>
+                        </p>
+                        <div class="fun-facts_item">
+                        </div>
+                    </div>
+                    <p class="fun-facts_figure timer" data-to="874" data-speed="3000"></p>
+                    <p class="fun-facts_title">
+                        التنزيلات
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 facts_col">
+                <div class="fun-facts_wrapper">
+                    <div class="fun-facts_contain">
+                        <p>
+                            <i class="icon-heart"></i>
+                        </p>
+                        <div class="fun-facts_item">
+                        </div>
+                    </div>
+                    <p class="fun-facts_figure timer" data-to="980" data-speed="3000"></p>
+                    <p class="fun-facts_title">
+                        عملاء سعداء
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 facts_col">
+                <div class="fun-facts_wrapper">
+                    <div class="fun-facts_contain">
+                        <p>
+                            <i class="icon-wallet"></i>
+                        </p>
+                        <div class="fun-facts_item">
+                        </div>
+                    </div>
+                    <p class="fun-facts_figure timer" data-to="760" data-speed="3000"></p>
+                    <p class="fun-facts_title">
+                        المشتريات
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 facts_col">
+                <div class="fun-facts_wrapper">
+                    <div class="fun-facts_contain">
+                        <p>
+                            <i class="icon-chat"></i>
+                        </p>
+                        <div class="fun-facts_item">
+                        </div>
+                    </div>
+                    <p class="fun-facts_figure timer" data-to="610" data-speed="3000"></p>
+                    <p class="fun-facts_title">
+                        تعليقات
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
+
+<!--=========================*
+        End Fun And Facts
+*===========================-->
+
+<!--=========================*
+            Pricing
+*===========================-->
+<?php include('arabic/partials/rtl_pricing.php');?>
 <!--=========================*
            End Pricing
 *===========================-->
@@ -431,131 +548,85 @@
 <!--=========================*
             Blog
 *===========================-->
-<section id="rt_blog">
+<?php include('arabic/partials/rtl_blog.php'); ?>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="mt_heading">
-                    <h2 class="section_heading text-center"><span>Our Blog</span></h2>
-                    <p class="heading_txt text-center"><i>Integrated drones solutions in biological precision farming</i> </p>
-                    <p class="heading_txt text-center">Drones for agriculture are precision aerial surveying instruments for precision agriculture, equipped with visible, multispectral and thermal sensors that provide quickly and easily crop status maps.</p>
-                    <p class="heading_txt text-center">Drones for agriculture are also tools for targeted low-cost, ecological and economical air distribution of products. It is possible to distribute from the low altitude above ground in an automatic and precise way, liquid products, granules, powders and capsules; the drone can import a map and quickly and effectively distribute the products exclusively in the areas that need them and in the appropriate quantity.</p>
-
-                    <p class="heading_txt text-center">Through automatic flights, programmed simply through the APP BLY3D of AERMATICA3D, you can make quick surveys and distribution of products optimized in a repeatable and economic way, without polluting for a BIOSOSTENIBLE AGRICULTURE IN RESPECT OF THE ENVIRONMENT.</p>
-                </div>
-            </div>
-            <!--=== Post Item ===-->
-            <div class="col-md-4 col-sm-12 grid-item">
-                <figure class="blog_post">
-                    <div class="image">
-                        <img src="images/screenshot/1.jpg" alt="Post Image" class="w-100"/>
-                    </div>
-                    <figcaption>
-                        <div class="date"><span class="day">28</span><span class="month">Oct</span></div>
-                        <h3>Distribution of liquids</h3>
-                    </figcaption>
-                    <a href="Distribution-of-liquids.php"></a>
-                </figure>
-            </div>
-            <!--=== End Post Item ===-->
-            <!--=== Post Item ===-->
-            <div class="col-md-4 col-sm-12 grid-item">
-                <figure class="blog_post">
-                    <div class="image">
-                        <img src="images/screenshot/2.jpg" alt="Post Image" class="w-100" />
-                    </div>
-                    <figcaption>
-                        <div class="date"><span class="day">15</span><span class="month">Dec</span></div>
-                        <h3>Distribution of granulate products</h3>
-                    </figcaption>
-                    <a href="Distribution-of-granulate products.php"></a>
-                </figure>
-            </div>
-            <!--=== End Post Item ===-->
-            <!--=== Post Item ===-->
-            <div class="col-md-4 col-sm-12 grid-item">
-                <figure class="blog_post">
-                    <div class="image">
-                        <img src="images/screenshot/3.jpg" alt="Post Image" class="w-100" />
-                    </div>
-                    <figcaption>
-                        <div class="date"><span class="day">01</span><span class="month">Nov</span></div>
-                        <h3>Distribution of powder</h3>
-                    </figcaption>
-                    <a href="Distribution-of-powder.php"></a>
-                </figure>
-            </div>
-            <!--=== End Post Item ===-->
-                <!--=== Post Item ===-->
-                <div class="col-md-4 col-sm-12 grid-item">
-                <figure class="blog_post">
-                    <div class="image">
-                        <img src="images/screenshot/4.jpg" alt="Post Image" class="w-100" />
-                    </div>
-                    <figcaption>
-                        <div class="date"><span class="day">28</span><span class="month">Oct</span></div>
-                        <h3>Distribution of capsules</h3>
-                    </figcaption>
-                    <a href="Distribution-of-capsules.php"></a>
-                </figure>
-            </div>
-            <!--=== End Post Item ===-->
-            <!--=== Post Item ===-->
-            <div class="col-md-4 col-sm-12 grid-item">
-                <figure class="blog_post">
-                    <div class="image">
-                        <img src="images/screenshot/5.jpg" alt="Post Image" class="w-100"/>
-                    </div>
-                    <figcaption>
-                        <div class="date"><span class="day">15</span><span class="month">Dec</span></div>
-                        <h3>Surveys</h3>
-                    </figcaption>
-                    <a href="Surveys.php"></a>
-                </figure>
-            </div>
-            <!--=== End Post Item ===-->
-            <!--=== Post Item ===-->
-            <div class="col-md-4 col-sm-12 grid-item">
-                <figure class="blog_post">
-                    <div class="image">
-                        <img src="images/screenshot/6.jpg" alt="Post Image" class="w-100"/>
-                    </div>
-                    <figcaption>
-                        <div class="date"><span class="day">01</span><span class="month">Nov</span></div>
-                        <h3>Mapping</h3>
-                    </figcaption>
-                    <a href="Mapping.php"></a>
-                </figure>
-            </div>
-            <!--=== End Post Item ===-->
-        </div>
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <a href="blog.php" class="rt_btn_color rt_view_btn">View All Posts</a>
-            </div>
-        </div>
-    </div>
-</section>
 <!--=========================*
-            End	Blog
+            End Blog
 *===========================-->
 
 <!--=========================*
             Contact
 *===========================-->
-<?php include 'contact.php';?>
+<?php include('arabic/partials/rtl_contact.php');?>
 <!--=========================*
           End Contact
 *===========================-->
 
 <!--=========================*
+            Get App
+*===========================-->
+<!-- <section id="rt_get_app" style="background: url(images/feature/get-bg.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="mt_heading">
+                    <h2 class="section_heading"><span>تحميل التطبيق الآن</span></h2>
+                    <p class="heading_txt">بريطانيا، عل يكن. ٣٠ عرض فشكّل سليمان،, لدحر شموليةً شيء كل, تم إحتار التقليدي بحث. علاقة الساحة الأسيوي أم هذه, بحث جديدة لإنعدام أن. قام و أواخر الشتاء،, نفس في علاقة المؤلّفة. يتم من.</p>
+                </div>
+                <a href="#" class="btn btn-app-store">
+                    <i class="fa fa-apple"></i> <span class="small">تحميل على</span> <span class="big">متجر التطبيقات</span>
+                </a>
+                <a href="#" class="btn btn-app-store google_play">
+                    <i class="ion-social-android"></i> <span class="small">تحميل على</span> <span
+                        class="big">متجر Play</span>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <img src="images/feature/get-mobile.png" alt="Mobile Image">
+            </div>
+        </div>
+    </div>
+</section> -->
+<!--=========================*
+          End Get App
+*===========================-->
+
+<!--=========================*
           Subscribe
 *===========================-->
-<?php include 'subscribe.php';?>
+<section id="newsletter">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <div class="newsletter_wrapper">
+                    <div class="newsletter-inner_wrapper">
+                        <h4>
+                            <span class="stay-touch">ابق على اتصال</span>
+                            <span class="offers">احصل على عروض حصرية</span>
+                        </h4>
+                        <form id="mc-newsletter" action="#" class="newsletterForm">
+                            <div class="input-group">
+                                <input type="email" id="mc-newsletter-input" autocomplete="off"
+                                       placeholder="Enter your email" class="form-control">
+                                <span class="input-group-btn">
+                                        <button id="btn-newsletter" class="btn btn-default submit-button" type="submit">
+                                            <img id="newsletter-btn-image" alt="image" src="images/icon-send.png"/>
+                                        </button>
+                                    </span>
+                            </div>
+                            <p class="newsletter-message"></p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+    </div>
+</section>
 <!--=========================*
           End Subscribe
 *===========================-->
 
 
-<?php include 'footer.php';?>
+<?php include 'arabic/partials/rtl-footer.php';?>

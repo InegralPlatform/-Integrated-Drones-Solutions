@@ -1,17 +1,17 @@
-<?php include 'header.php';?>
+<?php include 'paratials/paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'loader.php';?>
+<?php include 'paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'navbar.php';?>
+<?php include 'paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -392,4 +392,4 @@
         End Blog Main Sec
 *=============================-->
 
-<?php include 'footer.php';?>
+<?php include 'paratials/footer.php';?>

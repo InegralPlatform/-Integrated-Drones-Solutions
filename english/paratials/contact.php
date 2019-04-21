@@ -43,7 +43,7 @@
                                     <i class="icon-phone"></i>
                                     <div class="phone">
                                         <h5>Phone</h5>
-                                        <p>+966 55 413 3374</p>
+                                        <p>+966 0554133374</p>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@
                                 <div class="email">
                                     <i class="icon-envelope"></i>
                                     <h5>Email</h5>
-                                    <p><a href="majidyat@gmail.com">Hallo@iPlatform.co</a></p>
+                                    <p><a href="majidyat@gmail.com">Hello@integraldrone.co</a></p>
                                 </div>
                             </div>
                         </div>

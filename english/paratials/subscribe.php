@@ -17,7 +17,7 @@
                                 <input type="email" id="mc-newsletter-input" autocomplete="off" placeholder="Enter your email" class="form-control">
                                 <span class="input-group-btn">
                                         <button id="btn-newsletter" class="btn btn-default submit-button" type="submit">
-                                            <img id="newsletter-btn-image" alt="image" src="images/icon-send.png"/>
+                                            <img id="newsletter-btn-image" alt="image" src="../images/icon-send.png"/>
                                         </button>
                                     </span>
                             </div>

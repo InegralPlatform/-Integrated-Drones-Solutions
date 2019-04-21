@@ -13,46 +13,7 @@
 <!--=========================*
             Services
 *===========================-->
-<section id="rt_services">
-    <div class="container">
-        <div class="row">
-            <div class="mt_heading">
-                <h2 class="section_heading text-center"><span>Our Services</span></h2>
-                <p class="heading_txt text-center">For every specific application needs we select the best fitting drone, best performing sensors and we develop specific applicative software for automatic flight planning and drone mission management. </p>
-                <p class="heading_txt text-center">For every specific application needs we select the best fitting drone, best performing sensors and we develop specific applicative software for automatic flight planning and drone mission management.</p>
-                <p class="heading_txt text-center">We realize customized engineered developments completing safe and affordable flying platforms, operated according to applicative needs and Civil Aviation Authority authorizations.</p>
-                <p class="heading_txt text-center">we provide the integrated and industrialized products correlated by the necessary training for the application to make the Customer able for an independent use.</p>
-            </div>
-            <div class="col-md-4">
-                <div class="box text-center">
-                    <div class="icon">
-                        <i class="icon-tools"></i>
-                    </div>
-                    <h3>Clean Design</h3>
-
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="box text-center">
-                    <div class="icon">
-                        <i class="icon-heart"></i>
-                    </div>
-                    <h3>Made With Love</h3>
-
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="box text-center">
-                    <div class="icon">
-                        <i class="icon-tools-2"></i>
-                    </div>
-                    <h3>Easy To Customize</h3>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<?php include 'paratials/service.php';?>
 <!--=========================*
           End Services
 *===========================-->
@@ -66,9 +27,7 @@
             <div class="mt_heading">
                 <h2 class="section_heading text-center"><span>How Do Drones Work And What Is Drone Technology</span></h2>
                 <p class="heading_txt text-center">Drones are basically remote-controlled devices, that have the capability to fly using the provided rotors, and which can be controlled wirelessly using a wireless transmitter. Drones are usually toys, but these days their applications range from photography to surveillance to monitoring and managing crops etc. Most drones these days are usually made of materials like hard plastics but in some expensive models, carbon fibre and titanium are also used. </p>
-                <p class="heading_txt text-center">Now , drones have a central PCB or the Printed Circuit Board which acts as the brain of the drone. It has all the connectivity ports and flight controls attached to it. Parts such as gimbals, gyroscopes and accelerometers are attached to this PCB . The drone has a main body which houses these components , among other components such as the rotors, battery etc.</p>
-                <p class="heading_txt text-center">The movement and flight of the drone is usually controlled by 4 to 8 rotors which are attached to it on arms, thereby also giving it the name of octacopter. The left - right movement is controlled by slowing the rotors in the direction, which we need to go.</p>
-                <p class="heading_txt text-center"></p>
+
             </div>
             <div class="col-md-4 work_description">
                 <h3>What you get </h3>
@@ -325,7 +284,7 @@
     <div class="container">
         <div class="row">
             <div class="watch_content">
-                <a class="various fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/jid2A7ldc_8?autoplay=0"><img src="images/videobutton.png" alt="Play Button"></a>
+                <a class="various fancybox" data-fancybox-type="iframe" href=""><img src="../images/videobutton.png" alt="Play Button"></a>
                 <h1>See Drone in Action</h1>
                 <p class="text-center"></p>
             </div>
@@ -439,10 +398,7 @@
                 <div class="mt_heading">
                     <h2 class="section_heading text-center"><span>Our Blog</span></h2>
                     <p class="heading_txt text-center"><i>Integrated drones solutions in biological precision farming</i> </p>
-                    <p class="heading_txt text-center">Drones for agriculture are precision aerial surveying instruments for precision agriculture, equipped with visible, multispectral and thermal sensors that provide quickly and easily crop status maps.</p>
-                    <p class="heading_txt text-center">Drones for agriculture are also tools for targeted low-cost, ecological and economical air distribution of products. It is possible to distribute from the low altitude above ground in an automatic and precise way, liquid products, granules, powders and capsules; the drone can import a map and quickly and effectively distribute the products exclusively in the areas that need them and in the appropriate quantity.</p>
 
-                    <p class="heading_txt text-center">Through automatic flights, programmed simply through the APP BLY3D of AERMATICA3D, you can make quick surveys and distribution of products optimized in a repeatable and economic way, without polluting for a BIOSOSTENIBLE AGRICULTURE IN RESPECT OF THE ENVIRONMENT.</p>
                 </div>
             </div>
             <!--=== Post Item ===-->

@@ -4,8 +4,8 @@
             <div class="product_inner">
                 <div class="col-md-5">
                     <div class="banner_caption_text">
-                       <h3>DRONE SOLUTIONS PROVIDER</h3>
-                       <p>Integrated Drones Solutions is the ideal partner to make integrations among several flying platforms, sensors, software and hardware in order to satisfy the specific needs of companies, research centers, governmental entities and professionals</p>
+                       <h3 style="color:#fff;">OUR VISION</h3>
+                       <p>Integrate drone usage effectively in every business .We are Saudi pioneers who love futuristic technologies, we are prat of Integral Platform Co</p>
                         <a href="#rt_pricing" class="btn btn-app-store">
                             <i class="ion-ios-cart-outline"></i> <span class="small">Go to Store</span> <span class="big">Buy Now</span>
                         </a>

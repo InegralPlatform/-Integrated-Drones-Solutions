@@ -54,6 +54,10 @@
               Slider CSS
     *===========================-->
     <link rel="stylesheet" href="../css/cb-slider.css">
+    <!--=========================*
+            icon
+    *===========================-->
+    <link rel="icon" href="../images/logo/logo-transparent-bg.png">
 
     <!--=========================*
             Google Fonts

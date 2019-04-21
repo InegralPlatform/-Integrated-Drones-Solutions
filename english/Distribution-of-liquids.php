@@ -1,17 +1,17 @@
-<?php include 'header.php';?>
+<?php include 'paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'loader.php';?>
+<?php include 'paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'navbar.php';?>
+<?php include 'paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -54,10 +54,10 @@
             *===========================-->
             <div class="col-md-8">
                 <div class="post_img">
-                    <img src="images/blog/03.jpg" alt="Post Image">
+                    <img src="../images/blog/distribuzione-liquidi-con-drone.jpg" alt="Post Image">
                 </div>
                 <div class="post_title">
-                    <h3>DRONES FOR CAPSULES DISTRIBUTION</h3>
+                    <h3>DISTRIBUTION OF LIQUIDS BY DRONES</h3>
                     <ul class="list-inline list-unstyled">
                         <li>
                             <i class="icon-profile-male"></i>&nbsp;
@@ -74,22 +74,19 @@
                 </div>
                 <div class="post_body">
                     <p>
-                    DRONES FOR CAPSULES DISTRIBUTION </p>
+                    Drones to distribute liquid products on complex scenarios </p>
                     <blockquote>
-                        <p>BLY-A are drones for capsules distribution in biological farming. They are equipped by an automatic distribution kit and drop, at high precision by GPS, capsules that can be used for European Corn Borer biological control. Aermatica3D BLY3D software easily plans automatic flights according to the flight shape and considering the right amount of capsules to be released.</p>
+                        <p>The distribution of liquids by drones is the ideal solution in case the conformation of the scenario and the conditions of the terrain make the traditional mechanized or manual treatments difficult or even impossible, if not at very high costs.</p>
                         <span></span>
                     </blockquote>
-                   <p>In flight, the kit installed on the DRONE releases the capsules according to the planning made based on the position detected by the GPS.</p>
-                   <p>Each release is validated by a sensor system and in real time is monitored by the ground station where it is possible to remotely start and stop the distribution and check when the tank is empty.</p>
-                   <p>At the end of the flight an overall report of the trips made is generated.
-
-With a single flight you can cover up to 5 Ha in less than 15 minutes. The rapid recharge of the capsules is guaranteed by the ability to quickly remove the empty tank and to screw the full one to start again with a stop of a few seconds between flights.
-</p>
-<p>At the speed of up to 50 km / h, releasing up to 2 capsules per second, it is possible to cover large areas but maintaining the precision of distribution that determines the effectiveness of biological treatment.</p>
+                    <p>Distribution of liquids by drones on complex scenarios</p>
+                   <p>BLY-C is a drone for the efficient and non-invasive distribution of liquid and granulated products. Equipped with a 10 liter tank and 2 nozzles for spraying, specifically designed for distribution in complex scenarios (for example with steep slopes or obstacles).</p>
+                   <p>The right amount of low-drift product is delivered by an automatic and low altitude flight. In fact, thanks to the automatic flight planning by the APP BLY3D of Aermatica3D, it is possible to import a digital model of terrain elevation and plan a precise flight at a constant altitude, appropriately configuring the quantities of product to be distributed, to ensure the best and uniform surface coverage according to the task requirements.</p>
+                   <p>The DRONE BLY-C can be customized according to the distribution needs of the specific scenario and can be adapted to the needs of the various products spreading; for example it is possible to configure the number, the position and the type of the distribution nozzles.</p>
                 </div>
                 <div class="author_box">
                     <div class="author_img">
-                        <img src="images/blog/author.png" alt="Author">
+                        <img src="../images/blog/author.png" alt="Author">
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -394,4 +391,4 @@ With a single flight you can cover up to 5 Ha in less than 15 minutes. The rapid
         End Blog Main Sec
 *=============================-->
 
-<?php include 'footer.php';?>
+<?php include 'paratials/footer.php';?>

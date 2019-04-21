@@ -18,9 +18,9 @@
                                 </button>
                                 <div class="logo">
                                     <a href="index.php">
-                                        <img class="no_sticky_logo" src="../images/drone.svg" alt="Logo">
-                                        <img class="sticky_logo" src="../images/drone.svg" alt="Logo">
-                                        Integrated Drones Solutions
+                                        <img class="no_sticky_logo" src="../images/logo/logo-transparent-bg.png" alt="Logo">
+                                        <img class="sticky_logo" src="../images/logo/logo-transparent-bg.png" alt="Logo">
+
                                     </a>
                                 </div>
                             </div>

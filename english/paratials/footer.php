@@ -7,21 +7,21 @@
             <div class="col-md-3">
                 <div class="footer_logo text-left">
                     <a href="#">
-                        <img src="../images/drone.svg" alt="Footer Logo">
+                        <img src="../images/logo/logo-transparent-bg.png" alt="Footer Logo">
                     </a>
                 </div>
             </div>
             <div class="col-md-3 text-left">
                 <div class="footer_address">
-                    <p>Anas Ibn Malek St., Riyadh</p>
-                     <a href="tel:02019853591">+966 55 413 3374‬</a><br>
+                    <p class="">Anas Ibn Malek St., Riyadh</p>
+                     <a href="tel:02019853591">+966 0554133374‬</a><br>
                     <span>
-                        <a href="majidyat@gmail.com">Majid Abdulghani</a>
+                        <a href="#">Hello@integraldrone.co</a>
                     </span>
                 </div>
             </div>
             <div class="col-md-3">
-                <p class="text-left">We are happy to follow you on social networking sites</p>
+                <p class=" copyright text-left">We are happy to follow you on social networking sites</p>
                 <div class="social_icons mb-110 mb-xs-60">
                     <a href="#" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
                     <a href="#" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>

@@ -1,17 +1,17 @@
-<?php include 'header.php';?>
+<?php include 'paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'loader.php';?>
+<?php include 'paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'navbar.php';?>
+<?php include 'paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -54,10 +54,10 @@
             *===========================-->
             <div class="col-md-8">
                 <div class="post_img">
-                    <img src="images/blog/distribuzione-liquidi-con-drone.jpg" alt="Post Image">
+                    <img src="images/blog/Distribuzione-Polveri-con-drone.jpg" alt="Post Image">
                 </div>
                 <div class="post_title">
-                    <h3>DISTRIBUTION OF LIQUIDS BY DRONES</h3>
+                    <h3>POWDER DISTRIBUTION FOR PRECISION FARMING</h3>
                     <ul class="list-inline list-unstyled">
                         <li>
                             <i class="icon-profile-male"></i>&nbsp;
@@ -74,15 +74,16 @@
                 </div>
                 <div class="post_body">
                     <p>
-                    Drones to distribute liquid products on complex scenarios </p>
+                    Drones for powder distribution in precision farming </p>
                     <blockquote>
                         <p>The distribution of liquids by drones is the ideal solution in case the conformation of the scenario and the conditions of the terrain make the traditional mechanized or manual treatments difficult or even impossible, if not at very high costs.</p>
                         <span></span>
                     </blockquote>
-                    <p>Distribution of liquids by drones on complex scenarios</p>
-                   <p>BLY-C is a drone for the efficient and non-invasive distribution of liquid and granulated products. Equipped with a 10 liter tank and 2 nozzles for spraying, specifically designed for distribution in complex scenarios (for example with steep slopes or obstacles).</p>
-                   <p>The right amount of low-drift product is delivered by an automatic and low altitude flight. In fact, thanks to the automatic flight planning by the APP BLY3D of Aermatica3D, it is possible to import a digital model of terrain elevation and plan a precise flight at a constant altitude, appropriately configuring the quantities of product to be distributed, to ensure the best and uniform surface coverage according to the task requirements.</p>
-                   <p>The DRONE BLY-C can be customized according to the distribution needs of the specific scenario and can be adapted to the needs of the various products spreading; for example it is possible to configure the number, the position and the type of the distribution nozzles.</p>
+                    <p>BLY-C and BLY-A drones can distribute powder products for precision farming. Both drones, equipped by a Kit realized by Aermatica3D, up to 1 liter on BLY-A and up to 10 liters on BLY-C, distribute ad high precision by GPS the right amount of powder product on the field.</p>
+                    <p>
+Distribuzione Polveri con drone
+Flying automatically and at a very low altitude, it ensures that the right amount of powder product is delivered, avoiding excesses or uncovered areas. In fact, thanks to the automatic flight planning with the Aermatica3D APP BLY3D, it is possible to plan and check that the drone is flying at a constant altitude, even on terrain with steep slopes, appropriately configuring the quantity of product to be distributed.</p>
+                    <p>This ensures precise powder distribution and uniform surface coverage, based on the needs of the specific application. The powder distribution kit can be mounted on different drones; on BLY-A can distribute up to 1 liter per flight, while mounted on the BLY-C it can distribute up to 10 liters per flight.</p>
                 </div>
                 <div class="author_box">
                     <div class="author_img">
@@ -391,4 +392,4 @@
         End Blog Main Sec
 *=============================-->
 
-<?php include 'footer.php';?>
+<?php include 'paratials/footer.php';?>

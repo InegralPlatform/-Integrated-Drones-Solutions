@@ -1,17 +1,17 @@
-<?php include 'header.php';?>
+<?php include 'paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'loader.php';?>
+<?php include 'paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'navbar.php';?>
+<?php include 'paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -54,10 +54,10 @@
             *===========================-->
             <div class="col-md-8">
                 <div class="post_img">
-                    <img src="images/blog/Distribuzione-Polveri-con-drone.jpg" alt="Post Image">
+                    <img src="images/blog/03.jpg" alt="Post Image">
                 </div>
                 <div class="post_title">
-                    <h3>POWDER DISTRIBUTION FOR PRECISION FARMING</h3>
+                    <h3>DRONES FOR CAPSULES DISTRIBUTION</h3>
                     <ul class="list-inline list-unstyled">
                         <li>
                             <i class="icon-profile-male"></i>&nbsp;
@@ -74,16 +74,18 @@
                 </div>
                 <div class="post_body">
                     <p>
-                    Drones for powder distribution in precision farming </p>
+                    DRONES FOR CAPSULES DISTRIBUTION </p>
                     <blockquote>
-                        <p>The distribution of liquids by drones is the ideal solution in case the conformation of the scenario and the conditions of the terrain make the traditional mechanized or manual treatments difficult or even impossible, if not at very high costs.</p>
+                        <p>BLY-A are drones for capsules distribution in biological farming. They are equipped by an automatic distribution kit and drop, at high precision by GPS, capsules that can be used for European Corn Borer biological control. Aermatica3D BLY3D software easily plans automatic flights according to the flight shape and considering the right amount of capsules to be released.</p>
                         <span></span>
                     </blockquote>
-                    <p>BLY-C and BLY-A drones can distribute powder products for precision farming. Both drones, equipped by a Kit realized by Aermatica3D, up to 1 liter on BLY-A and up to 10 liters on BLY-C, distribute ad high precision by GPS the right amount of powder product on the field.</p>
-                    <p>
-Distribuzione Polveri con drone
-Flying automatically and at a very low altitude, it ensures that the right amount of powder product is delivered, avoiding excesses or uncovered areas. In fact, thanks to the automatic flight planning with the Aermatica3D APP BLY3D, it is possible to plan and check that the drone is flying at a constant altitude, even on terrain with steep slopes, appropriately configuring the quantity of product to be distributed.</p>
-                    <p>This ensures precise powder distribution and uniform surface coverage, based on the needs of the specific application. The powder distribution kit can be mounted on different drones; on BLY-A can distribute up to 1 liter per flight, while mounted on the BLY-C it can distribute up to 10 liters per flight.</p>
+                   <p>In flight, the kit installed on the DRONE releases the capsules according to the planning made based on the position detected by the GPS.</p>
+                   <p>Each release is validated by a sensor system and in real time is monitored by the ground station where it is possible to remotely start and stop the distribution and check when the tank is empty.</p>
+                   <p>At the end of the flight an overall report of the trips made is generated.
+
+With a single flight you can cover up to 5 Ha in less than 15 minutes. The rapid recharge of the capsules is guaranteed by the ability to quickly remove the empty tank and to screw the full one to start again with a stop of a few seconds between flights.
+</p>
+<p>At the speed of up to 50 km / h, releasing up to 2 capsules per second, it is possible to cover large areas but maintaining the precision of distribution that determines the effectiveness of biological treatment.</p>
                 </div>
                 <div class="author_box">
                     <div class="author_img">
@@ -392,4 +394,4 @@ Flying automatically and at a very low altitude, it ensures that the right amoun
         End Blog Main Sec
 *=============================-->
 
-<?php include 'footer.php';?>
+<?php include 'paratials/footer.php';?>

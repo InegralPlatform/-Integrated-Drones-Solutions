@@ -32,7 +32,7 @@
             </div>
             <div class="col-md-3">
                 <div class="copyright text-left">
-                    <p>&copy;  Integrated Drones Solutions 2019 </p>
+                    <p>&copy;  Integral Drones  </p>
                     <p>All Rights Reserved</p>
                 </div>
             </div>

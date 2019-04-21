@@ -4,11 +4,17 @@
             <div class="product_inner">
                 <div class="col-md-5">
                     <div class="banner_caption_text">
-                       <h3 style="color:#fff;">OUR VISION</h3>
-                       <p>Integrate drone usage effectively in every business .We are Saudi pioneers who love futuristic technologies, we are prat of Integral Platform Co</p>
-                        <a href="#rt_pricing" class="btn btn-app-store">
+
+                        <h3 style="color:#fff;">ABOUT US</h3>
+                      <p>
+                           We are Saudi pioneers who love futuristic technologies, we are prat of Integral Platform Co
+                        </p>
+                        <h3 style="color:#fff;">OUR VISION</h3>
+                        <p>Integrate drone usage effectively in every business .
+                         </p>
+                        <!-- <a href="#rt_pricing" class="btn btn-app-store">
                             <i class="ion-ios-cart-outline"></i> <span class="small">Go to Store</span> <span class="big">Buy Now</span>
-                        </a>
+                        </a> -->
 
                     </div>
                 </div>

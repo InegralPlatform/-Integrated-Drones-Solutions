@@ -54,7 +54,7 @@
             *===========================-->
             <div class="col-md-8">
                 <div class="post_img">
-                    <img src="images/blog/03.jpg" alt="Post Image">
+                    <img src="../images/blog/03.jpg" alt="Post Image">
                 </div>
                 <div class="post_title">
                     <h3>DISTRIBUTION OF LIQUIDS BY DRONES</h3>
@@ -86,7 +86,7 @@
                 </div>
                 <div class="author_box">
                     <div class="author_img">
-                        <img src="images/blog/author.png" alt="Author">
+                        <img src="../images/blog/author.png" alt="Author">
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>

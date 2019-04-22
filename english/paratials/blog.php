@@ -83,7 +83,7 @@
                 <div class="summer-fashion-wrap">
                     <div class="summer-fashion">
                         <a href="blog-single.html">
-                            <img src="images/blog-listing/04.jpg" alt="" class="img-responsive ">
+                            <img src="../images/blog-listing/04.jpg" alt="" class="img-responsive ">
                         </a>
                     </div>
                     <!--summer-fashion-->
@@ -111,7 +111,7 @@
                 <div class="summer-fashion-wrap">
                     <div class="summer-fashion">
                         <a href="blog-single.html">
-                            <img src="images/blog-listing/01.jpg" alt="" class="img-responsive ">
+                            <img src="../images/blog-listing/01.jpg" alt="" class="img-responsive ">
                         </a>
                     </div>
                     <!--summer-fashion-->
@@ -138,7 +138,7 @@
                 <div class="summer-fashion-wrap">
                     <div class="summer-fashion">
                         <a href="blog-single.html">
-                            <img src="images/blog-listing/02.jpg" alt="" class="img-responsive ">
+                            <img src="../images/blog-listing/02.jpg" alt="" class="img-responsive ">
                         </a>
                     </div>
                     <!--summer-fashion-->

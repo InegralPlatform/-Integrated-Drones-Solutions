@@ -1,17 +1,17 @@
-<?php include 'paratials/header.php';?>
+<?php include 'english/paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'paratials/loader.php';?>
+<?php include 'english/paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'paratials/navbar.php';?>
+<?php include 'english/paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-12 text-left">
                 <div class="bread_crumbs">
-                    <h1>Agricultural Services</h1>
+                    <h1>Architectural 3D Modeling  </h1>
                     <ul class="breadcrumb">
                         <li><a href="#">Home</a></li>
                         <li class="active">Service</li>
@@ -54,10 +54,10 @@
             *===========================-->
             <div class="col-md-8">
                 <div class="post_img">
-                    <img src="../images/feature/feature-img.png" alt="Post Image">
+                    <img src="images/feature/feature-img.png" alt="Post Image">
                 </div>
                 <div class="post_title">
-                    <h3>Agricultural Services</h3>
+                    <h3>Architectural 3D Modeling  </h3>
                     <ul class="list-inline list-unstyled">
                         <li>
                             <i class="icon-profile-male"></i>&nbsp;
@@ -73,24 +73,20 @@
                     </ul>
                 </div>
                 <div class="post_body">
-                    <p>
-                    </p>
+
                     <blockquote>
-                        <p>Our solutions are designed to deliver real value for farmers — reducing crop inputs, boosting yields, and increasing profits. Whether you fly your own agricultural drone in combination with data processing service or choose one of our complete drone and data processing solutions.</p>
+                      <p>
+              One drone solution for architects, building professionals and real estate agencies to easily create photorealistic 3D models, photos and videos of houses and buildings. This multipurpose tool is a unique software solution, enabling building professionals to quickly and easily assess the work to be carried out. With this solution they can draft new projects and promote their properties on the web.
+                      </p>
                         <span></span>
                     </blockquote>
-                    <p> we’re here to support you to achieve the following:</p>
-                  <ul>
-                    <li>	Increase in Work Efficiency and Productivity</li>
-                      <li>	Efficient Crop Management</li>
-                      <li>	Improved Accuracy with Automation</li>
 
-                  </ul>
+
 
                 </div>
                 <div class="author_box">
                     <div class="author_img">
-                        <img src="../images/blog/author.png" alt="Author">
+                        <img src="images/blog/author.png" alt="Author">
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -161,4 +157,4 @@
         End Blog Main Sec
 *=============================-->
 
-<?php include 'paratials/footer.php';?>
+<?php include 'english/paratials/footer.php';?>

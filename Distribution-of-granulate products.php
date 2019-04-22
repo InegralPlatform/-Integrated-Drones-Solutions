@@ -1,17 +1,17 @@
-<?php include 'paratials/paratials/header.php';?>
+<?php include 'english/paratials/paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'paratials/loader.php';?>
+<?php include 'english/paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'paratials/navbar.php';?>
+<?php include 'english/paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -392,4 +392,4 @@
         End Blog Main Sec
 *=============================-->
 
-<?php include 'paratials/footer.php';?>
+<?php include 'english/paratials/footer.php';?>

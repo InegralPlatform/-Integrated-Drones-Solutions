@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-md-7">
                     <div class="banner_caption_img">
-                        <img class="wow fadeInUp" data-wow-delay="0.3" src="../images/banner-img.png" alt="">
+                        <img class="wow fadeInUp" data-wow-delay="0.3" src="images/banner-img.png" alt="">
                     </div>
                 </div>
             </div>

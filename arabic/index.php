@@ -1,18 +1,18 @@
-﻿<?php include 'arabic/partials/rtl-header.php';?>
+﻿<?php include 'partials/rtl-header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'arabic/partials/rtl_loading.php';?>
+<?php include 'partials/rtl_loading.php';?>
 
 <!-- End Preloader -->
 <div id="top"></div>
 <!--=========================*
             Header
 *===========================-->
-<?php include 'arabic/partials/rtl-navbar.php';?>
+<?php include 'partials/rtl-navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -20,7 +20,7 @@
             Banner
 *===========================-->
 
-<?php include 'arabic/partials/rtl_banner.php';?>
+<?php include 'partials/rtl_banner.php';?>
 <!--=========================*
             End	Banner
 *===========================-->
@@ -540,7 +540,7 @@
 <!--=========================*
             Pricing
 *===========================-->
-<?php include('arabic/partials/rtl_pricing.php');?>
+<?php include('partials/rtl_pricing.php');?>
 <!--=========================*
            End Pricing
 *===========================-->
@@ -548,7 +548,7 @@
 <!--=========================*
             Blog
 *===========================-->
-<?php include('arabic/partials/rtl_blog.php'); ?>
+<?php include('partials/rtl_blog.php'); ?>
 
 <!--=========================*
             End Blog
@@ -557,7 +557,7 @@
 <!--=========================*
             Contact
 *===========================-->
-<?php include('arabic/partials/rtl_contact.php');?>
+<?php include('partials/rtl_contact.php');?>
 <!--=========================*
           End Contact
 *===========================-->
@@ -629,4 +629,4 @@
 *===========================-->
 
 
-<?php include 'arabic/partials/rtl-footer.php';?>
+<?php include 'partials/rtl-footer.php';?>

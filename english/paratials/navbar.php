@@ -18,8 +18,8 @@
                                 </button>
                                 <div class="logo">
                                     <a href="index.php">
-                                        <img class="no_sticky_logo" src="../images/logo/logo-transparent-bg.png" alt="Logo">
-                                        <img class="sticky_logo" src="../images/logo/logo-transparent-bg.png" alt="Logo">
+                                        <img class="no_sticky_logo" src="images/logo/logo-transparent-bg.png" alt="Logo">
+                                        <img class="sticky_logo" src="images/logo/logo-transparent-bg.png" alt="Logo">
 
                                     </a>
                                 </div>
@@ -34,7 +34,7 @@
                                     <!-- <li><a href="index.html#rt_testimonial">Testimonials</a></li> -->
                                     <!-- <li><a href="index.php#rt_pricing">Store</a></li> -->
                                     <li><a href="index.php#rt_blog">Blog</a></li>
-                                    <li><a href="../">عربى</a></li>
+                                    <!-- <li><a href="#">عربى</a></li> -->
                                     <li><a href="index.php#rt_contact"><i class="fa fa-phone"></i> Contact Us</a></li>
                                 </ul>
                             </div>

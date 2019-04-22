@@ -45,22 +45,22 @@
     <div class="product_inner">
         <div class="owl-carousel">
             <div class="item">
-                <img src="../images/screenshot/1.jpg" alt="">
+                <img src="images/screenshot/1.jpg" alt="">
             </div>
             <div class="item">
-                <img src="../images/screenshot/2.jpg" alt="">
+                <img src="images/screenshot/2.jpg" alt="">
             </div>
             <div class="item">
-                <img src="../images/screenshot/3.jpg" alt="">
+                <img src="images/screenshot/3.jpg" alt="">
             </div>
             <div class="item">
-                <img src="../images/screenshot/4.jpg" alt="">
+                <img src="images/screenshot/4.jpg" alt="">
             </div>
             <div class="item">
-                <img src="../images/screenshot/5.jpg" alt="">
+                <img src="images/screenshot/5.jpg" alt="">
             </div>
             <div class="item">
-                <img src="../images/screenshot/6.jpg" alt="">
+                <img src="images/screenshot/6.jpg" alt="">
             </div>
         </div>
     </div>
@@ -113,7 +113,7 @@
             <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="../images/screenshot/1.jpg" alt="Post Image" class="w-100"/>
+                        <img src="images/screenshot/1.jpg" alt="Post Image" class="w-100"/>
                     </div>
                     <figcaption>
                         <div class="date"><span class="day">28</span><span class="month">Oct</span></div>
@@ -127,7 +127,7 @@
             <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="../images/screenshot/2.jpg" alt="Post Image" class="w-100" />
+                        <img src="images/screenshot/2.jpg" alt="Post Image" class="w-100" />
                     </div>
                     <figcaption>
                         <div class="date"><span class="day">15</span><span class="month">Dec</span></div>
@@ -141,7 +141,7 @@
             <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="../images/screenshot/3.jpg" alt="Post Image" class="w-100" />
+                        <img src="images/screenshot/3.jpg" alt="Post Image" class="w-100" />
                     </div>
                     <figcaption>
                         <div class="date"><span class="day">01</span><span class="month">Nov</span></div>
@@ -155,7 +155,7 @@
                 <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="../images/screenshot/4.jpg" alt="Post Image" class="w-100" />
+                        <img src="images/screenshot/4.jpg" alt="Post Image" class="w-100" />
                     </div>
                     <figcaption>
                         <div class="date"><span class="day">28</span><span class="month">Oct</span></div>
@@ -169,7 +169,7 @@
             <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="../images/screenshot/5.jpg" alt="Post Image" class="w-100"/>
+                        <img src="images/screenshot/5.jpg" alt="Post Image" class="w-100"/>
                     </div>
                     <figcaption>
                         <div class="date"><span class="day">15</span><span class="month">Dec</span></div>
@@ -183,7 +183,7 @@
             <div class="col-md-4 col-sm-12 grid-item">
                 <figure class="blog_post">
                     <div class="image">
-                        <img src="../images/screenshot/6.jpg" alt="Post Image" class="w-100"/>
+                        <img src="images/screenshot/6.jpg" alt="Post Image" class="w-100"/>
                     </div>
                     <figcaption>
                         <div class="date"><span class="day">01</span><span class="month">Nov</span></div>

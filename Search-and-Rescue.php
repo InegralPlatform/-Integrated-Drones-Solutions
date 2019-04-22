@@ -1,17 +1,17 @@
-<?php include 'paratials/header.php';?>
+<?php include 'english/paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'paratials/loader.php';?>
+<?php include 'english/paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'paratials/navbar.php';?>
+<?php include 'english/paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-12 text-left">
                 <div class="bread_crumbs">
-                    <h1>Advertising and Entertainment</h1>
+                    <h1>Search and Rescue</h1>
                     <ul class="breadcrumb">
                         <li><a href="#">Home</a></li>
                         <li class="active">Service</li>
@@ -54,10 +54,10 @@
             *===========================-->
             <div class="col-md-8">
                 <div class="post_img">
-                    <img src="../images/feature/feature-img.png" alt="Post Image">
+                    <img src="images/feature/feature-img.png" alt="Post Image">
                 </div>
                 <div class="post_title">
-                    <h3>Advertising and Entertainment</h3>
+                    <h3>Search and Rescue</h3>
                     <ul class="list-inline list-unstyled">
                         <li>
                             <i class="icon-profile-male"></i>&nbsp;
@@ -67,23 +67,35 @@
                             <i class="icon-calendar"></i>&nbsp;
                             12-Jun&nbsp;
                         </li>
-
+                        <!-- <li>
+                            <a href="#"><i class="icon-chat"></i>&nbsp;Comment (3)</a>
+                        </li> -->
                     </ul>
                 </div>
                 <div class="post_body">
                     <p>
-
+                      When a disaster or incident threatens lives and livelihoods, emergency responders need information and real-time imagery in order to make better decisions and save time. Drones can provide situational awareness over a large area quickly, reducing the time and the number of searchers required to locate and rescue an injured or lost person, greatly reducing the cost and risks of search and rescue missions. The possibilities for helping ensure public safety are endless.
+                    </p>
                     <blockquote>
-                        <p> Start using drone in your advertising to gain customer attention like never before.
-Moreover, our drones can help you with your events.
-</p>
+                      <p>
+                        Our drones are designed to provide cost effective, real time data and imaging, day or night, in challenging conditions and without risk to personnel. Aiding in the search for missing persons is the infrared (IR) thermal imaging camera that can detect human body heat. This capability greatly increases the ability to find people or objects at night that may be hidden, even during daytime operations.
+                      </p>
                         <span></span>
                     </blockquote>
+                    <p> Applications include:</p>
+                  <ul>
+                    <li>	Search for suspects and missing persons</li>
+                      <li>	Accident or crime scene investigation/documentation</li>
+                      <li>	Search and recovery missions</li>
+                     <li>
+                        Disaster & emergency analysis
+                     </li>
+                  </ul>
 
                 </div>
                 <div class="author_box">
                     <div class="author_img">
-                        <img src="../images/blog/author.png" alt="Author">
+                        <img src="images/blog/author.png" alt="Author">
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -97,9 +109,8 @@ Moreover, our drones can help you with your events.
                     </div>
                 </div>
 
-                <!--=========================*
-                        End Comment Sec
-                *===========================-->
+
+
             </div>
             <!--=========================*
                   End Blog Content Sec
@@ -107,7 +118,7 @@ Moreover, our drones can help you with your events.
             <!--=========================*
                       Blog Sidebar
             *===========================-->
-            <!-- <aside class="col-sm-4">
+            <aside class="col-sm-4">
                 <div class="widget">
                     <form class="search-form" role="search" action="#" method="post">
                         <input id="sidebar-search" placeholder="Search" type="text"/>
@@ -115,37 +126,36 @@ Moreover, our drones can help you with your events.
                 </div>
                 <div class="widget">
                     <div class="recent-posts">
-                        <h4>RECENT POSTS</h4>
+                        <h4>Recent Services</h4>
                         <div class="recent-posts-block">
                             <a href="#">
                                 <p>This is the one thing every smart home needs</p>
                             </a>
-                            <span>June 30,2017</span>
+                            <span>June 30,2019</span>
                         </div>
                         <div class="recent-posts-block">
                             <a href="#">
                                 <p>This is the one thing every smart home needs</p>
                             </a>
-                            <span>June 30,2017</span>
+                            <span>June 30,2019</span>
                         </div>
                         <div class="recent-posts-block">
                             <a href="#">
                                 <p>This is the one thing every smart home needs</p>
                             </a>
-                            <span>June 30,2017</span>
+                            <span>June 30,2019</span>
                         </div>
                         <div class="recent-posts-block">
                             <a href="#">
                                 <p>This is the one thing every smart home needs</p>
                             </a>
-                            <span>June 30,2017</span>
+                            <span>June 30,2019</span>
                         </div>
 
                     </div>
                 </div>
                 <div class="clearfix"></div>
-
-            </aside> -->
+          </aside>
             <!--=========================*
                    End Blog Sidebar
             *===========================-->
@@ -156,4 +166,4 @@ Moreover, our drones can help you with your events.
         End Blog Main Sec
 *=============================-->
 
-<?php include 'paratials/footer.php';?>
+<?php include 'english/paratials/footer.php';?>

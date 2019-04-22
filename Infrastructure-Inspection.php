@@ -1,17 +1,17 @@
-<?php include 'paratials/header.php';?>
+<?php include 'english/paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'paratials/loader.php';?>
+<?php include 'english/paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'paratials/navbar.php';?>
+<?php include 'english/paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -54,7 +54,7 @@
             *===========================-->
             <div class="col-md-8">
                 <div class="post_img">
-                    <img src="../images/feature/feature-img.png" alt="Post Image">
+                    <img src="images/feature/feature-img.png" alt="Post Image">
                 </div>
                 <div class="post_title">
                     <h3>Infrastructure Inspection</h3>
@@ -92,7 +92,7 @@
                 </div>
                 <div class="author_box">
                     <div class="author_img">
-                        <img src="../images/blog/author.png" alt="Author">
+                        <img src="images/blog/author.png" alt="Author">
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -163,4 +163,4 @@
         End Blog Main Sec
 *=============================-->
 
-<?php include 'paratials/footer.php';?>
+<?php include 'english/paratials/footer.php';?>

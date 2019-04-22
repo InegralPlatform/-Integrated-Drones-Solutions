@@ -22,42 +22,42 @@
     <!--=========================*
             Bootstrap Css
     *===========================-->
-    <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
     <!--=========================*
               Custom CSS
     *===========================-->
-    <link href="../css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 
     <!--=========================*
                Owl CSS
     *===========================-->
-    <link href="../css/owl.carousel.min.css" rel="stylesheet" type="text/css">
-    <link href="../css/owl.theme.default.min.css" rel="stylesheet" type="text/css">
+    <link href="css/owl.carousel.min.css" rel="stylesheet" type="text/css">
+    <link href="css/owl.theme.default.min.css" rel="stylesheet" type="text/css">
 
     <!--=========================*
                Fancy Box
     *===========================-->
-    <link href="../css/jquery.fancybox.css" rel="stylesheet"/>
+    <link href="css/jquery.fancybox.css" rel="stylesheet"/>
 
     <!--=========================*
               Animate CSS
     *===========================-->
-    <link href="../css/animate.css" rel="stylesheet" type="text/css">
+    <link href="css/animate.css" rel="stylesheet" type="text/css">
 
     <!--=========================*
               Toastr CSS
     *===========================-->
-    <link rel="stylesheet" href="../css/toastr.min.css">
+    <link rel="stylesheet" href="css/toastr.min.css">
 
     <!--=========================*
               Slider CSS
     *===========================-->
-    <link rel="stylesheet" href="../css/cb-slider.css">
+    <link rel="stylesheet" href="css/cb-slider.css">
     <!--=========================*
             icon
     *===========================-->
-    <link rel="icon" href="../images/logo/logo-transparent-bg.png">
+    <link rel="icon" href="images/logo/logo-transparent-bg.png">
 
     <!--=========================*
             Google Fonts
@@ -75,17 +75,17 @@
     <!--=========================*
             Font Awesome
     *===========================-->
-    <link href="../css/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
 
     <!--=========================*
                Ionicons
     *===========================-->
-    <link href="../css/ionicons.min.css" rel="stylesheet"/>
+    <link href="css/ionicons.min.css" rel="stylesheet"/>
 
     <!--=========================*
               EtLine Icons
     *===========================-->
-    <link href="../css/et-line.css" rel="stylesheet"/>
+    <link href="css/et-line.css" rel="stylesheet"/>
 
     <!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>

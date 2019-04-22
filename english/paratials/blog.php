@@ -76,7 +76,7 @@
                            <p>The distribution of liquids by drones is the ideal solution in case the conformation of the scenario and the conditions of the terrain make the traditional mechanized or manual treatments difficult or even impossible, if not at very high costs.
 
                                </p>
-                            <a href="Distribution-of-liquids.php" class="rt_btn_color">Read More</a>
+                            <a href="#" class="rt_btn_color">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                             <h3>DRONES FOR CAPSULES DISTRIBUTION</h3>
                             <p>BLY-A are drones for capsules distribution in biological farming. They are equipped by an automatic distribution kit and drop, at high precision by GPS, capsules that can be used for European Corn Borer biological control. Aermatica3D BLY3D software easily plans automatic flights according to the flight shape and considering the right amount of capsules to be released.
                             </p>
-                            <a href="Distribution-of-granulate products.php" class="rt_btn_color">Read More</a>
+                            <a href="#" class="rt_btn_color">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                         <div class="fall-trends">
                             <h3>DRONE FOR GRANULATE PRODUCTS DISTRIBUTION</h3>
                             <p>BLY-C is a drone for granulate products distribution, in a efficient way, on all types of scenarios. Equipped by a 10 liters tank and granulates distribution kit, it can distribute granular products in variable rates..</p>
-                            <a href="Distribution-of-powder.php" class="rt_btn_color">Read More</a>
+                            <a href="#" class="rt_btn_color">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -159,7 +159,7 @@
                        <p>
 Drones for powder distribution in precision farming
 BLY-C and BLY-A drones can distribute powder products for precision farming. Both drones, equipped by a Kit realized by Aermatica3D, up to 1 liter on BLY-A and up to 10 liters on BLY-C, distribute ad high precision by GPS the right amount of powder product on the field.</p>
-                            <a href="Distribution-of-capsules.php" class="rt_btn_color">Read More</a>
+                            <a href="#" class="rt_btn_color">Read More</a>
                         </div>
                     </div>
                 </div>

@@ -1,17 +1,17 @@
-<?php include 'paratials/header.php';?>
+<?php include 'english/paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'paratials/loader.php';?>
+<?php include 'english/paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'paratials/navbar.php';?>
+<?php include 'english/paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -394,4 +394,4 @@ With a single flight you can cover up to 5 Ha in less than 15 minutes. The rapid
         End Blog Main Sec
 *=============================-->
 
-<?php include 'paratials/footer.php';?>
+<?php include 'english/paratials/footer.php';?>

@@ -7,7 +7,7 @@
             <div class="col-md-3">
                 <div class="footer_logo text-left">
                     <a href="#">
-                        <img src="../images/logo/logo-transparent-bg.png" alt="Footer Logo">
+                        <img src="images/logo/logo-transparent-bg.png" alt="Footer Logo">
                     </a>
                 </div>
             </div>
@@ -49,35 +49,35 @@
 *===========================-->
 
 <!-- Jquery Js -->
-<script src="../js/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
 <!-- Bootstrap Js -->
-<script src="../js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <!-- Paralex Js -->
-<script src="../js/jquery.parallax-1.1.3.js"></script>
+<script src="js/jquery.parallax-1.1.3.js"></script>
 <!-- Fancy Box Js -->
-<script src="../js/jquery.fancybox.pack.js"></script>
+<script src="js/jquery.fancybox.pack.js"></script>
 <!-- WOW Js -->
-<script src="../js/wow.min.js"></script>
+<script src="js/wow.min.js"></script>
 <!-- YT Player Js -->
-<script src="../js/jquery.mb.YTPlayer.js"></script>
+<script src="js/jquery.mb.YTPlayer.js"></script>
 <!-- Masonary Grid -->
-<script src="../js/masonry.pkgd.min.js"></script>
+<script src="js/masonry.pkgd.min.js"></script>
 <!-- Navigation scroll Js -->
-<script src="../js/jquery.nav.js"></script>
+<script src="js/jquery.nav.js"></script>
 <!-- Owl Carousel Js -->
-<script src="../js/owl.carousel.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
 <!-- Easing Js -->
-<script src="../js/jquery.easing.min.js"></script>
+<script src="js/jquery.easing.min.js"></script>
 <!-- Fancy Box Js -->
-<script src="../js/jquery.fancybox.pack.js"></script>
+<script src="js/jquery.fancybox.pack.js"></script>
 <!-- Toastr Js -->
-<script src="../js/toastr.min.js"></script>
+<script src="js/toastr.min.js"></script>
 <!-- Appear Js -->
-<script src="../js/jquery.appear.js"></script>
+<script src="js/jquery.appear.js"></script>
 <!-- Count Js -->
-<script src="../js/jquery.countTo.js"></script>
+<script src="js/jquery.countTo.js"></script>
 <!-- Main Js -->
-<script src="../js/main.js"></script>
+<script src="js/main.js"></script>
 
 </body>
 

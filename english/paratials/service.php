@@ -9,7 +9,7 @@
               <div class="col-md-3">
                   <div class="box text-center">
                       <div class="icon">
-                        <span><img src="../images/service/Advertising.svg" / width="100"></span>
+                        <span><img src="images/service/Advertising.svg" / width="100"></span>
                       </div>
                       <h6>Advertising and Entertainment </h6>
                      <p></p>
@@ -20,7 +20,7 @@
             <div class="col-md-3">
                 <div class="box text-center">
                     <div class="icon">
-                        <span><img src="../images/service/Inspection.svg" / width="100"></span>
+                        <span><img src="images/service/Inspection.svg" / width="100"></span>
                     </div>
                       <h6>Infrastructure <br /> Inspection </h6>
                      <p></p>
@@ -31,7 +31,7 @@
             <div class="col-md-3">
                 <div class="box text-center">
                     <div class="icon">
-                        <span><img src="../images/service/Mapping.svg" / width="100"></span>
+                        <span><img src="images/service/Mapping.svg" / width="100"></span>
                     </div>
                       <h6>Surveying and<br /> Mapping </h6>
 
@@ -42,7 +42,7 @@
             <div class="col-md-3">
                 <div class="box text-center">
                     <div class="icon">
-                        <span><img src="../images/service/Agricultural.svg" / width="100"></span>
+                        <span><img src="images/service/Agricultural.svg" / width="100"></span>
                     </div>
                       <h6>Agricultural<br /> Services </h6>
 
@@ -58,7 +58,7 @@
         <div class="col-md-3">
             <div class="box text-center">
                 <div class="icon">
-                    <span><img src="../images/service/search.svg" / width="100"></span>
+                    <span><img src="images/service/search.svg" / width="100"></span>
                 </div>
                   <h6>Search and Rescue </h6>
                <p></p>
@@ -69,7 +69,7 @@
         <div class="col-md-3">
             <div class="box text-center">
                 <div class="icon">
-                    <span><img src="../images/service/Security.svg" / width="100"></span>
+                    <span><img src="images/service/Security.svg" / width="100"></span>
                 </div>
                   <h6>Security and Monitoring  </h6>
                  <p></p>
@@ -80,7 +80,7 @@
         <div class="col-md-3">
             <div class="box text-center">
                 <div class="icon">
-                    <span><img src="../images/service/Delivery.svg" / width="100"></span>
+                    <span><img src="images/service/Delivery.svg" / width="100"></span>
                 </div>
                 <h6>Delivery and Cargo </h6>
 
@@ -91,7 +91,7 @@
         <div class="col-md-3">
             <div class="box text-center">
                 <div class="icon">
-                    <span><img src="../images/service/Architectural3DModeling.svg" / width="100"></span>
+                    <span><img src="images/service/Architectural3DModeling.svg" / width="100"></span>
                 </div>
                   <h6>Architectural3DModeling</h6>
             </div>

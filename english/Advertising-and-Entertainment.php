@@ -1,17 +1,17 @@
-<?php include 'english/paratials/header.php';?>
+<?php include 'paratials/header.php';?>
 <!--
 =================================
             PRELOADER
 =================================
 -->
 
-<?php include 'english/paratials/loader.php';?>
+<?php include 'paratials/loader.php';?>
 
 <!-- End Preloader -->
 <!--=========================*
             Header
 *===========================-->
-<?php include 'english/paratials/navbar.php';?>
+<?php include 'paratials/navbar.php';?>
 <!--=========================*
            End Header
 *===========================-->
@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-md-12 text-left">
                 <div class="bread_crumbs">
-                    <h1>Agricultural Services</h1>
+                    <h1>Advertising and Entertainment</h1>
                     <ul class="breadcrumb">
                         <li><a href="#">Home</a></li>
                         <li class="active">Service</li>
@@ -54,10 +54,10 @@
             *===========================-->
             <div class="col-md-8">
                 <div class="post_img">
-                    <img src="images/feature/feature-img.png" alt="Post Image">
+                    <img src="../images/feature/feature-img.png" alt="Post Image">
                 </div>
                 <div class="post_title">
-                    <h3>Agricultural Services</h3>
+                    <h3>Advertising and Entertainment</h3>
                     <ul class="list-inline list-unstyled">
                         <li>
                             <i class="icon-profile-male"></i>&nbsp;
@@ -67,30 +67,23 @@
                             <i class="icon-calendar"></i>&nbsp;
                             12-Jun&nbsp;
                         </li>
-                        <!-- <li>
-                            <a href="#"><i class="icon-chat"></i>&nbsp;Comment (3)</a>
-                        </li> -->
+
                     </ul>
                 </div>
                 <div class="post_body">
                     <p>
-                    </p>
+
                     <blockquote>
-                        <p>Our solutions are designed to deliver real value for farmers — reducing crop inputs, boosting yields, and increasing profits. Whether you fly your own agricultural drone in combination with data processing service or choose one of our complete drone and data processing solutions.</p>
+                        <p> Start using drone in your advertising to gain customer attention like never before.
+Moreover, our drones can help you with your events.
+</p>
                         <span></span>
                     </blockquote>
-                    <p> we’re here to support you to achieve the following:</p>
-                  <ul>
-                    <li>	Increase in Work Efficiency and Productivity</li>
-                      <li>	Efficient Crop Management</li>
-                      <li>	Improved Accuracy with Automation</li>
-
-                  </ul>
 
                 </div>
-                <!-- <div class="author_box">
+                <div class="author_box">
                     <div class="author_img">
-                        <img src="images/blog/author.png" alt="Author">
+                        <img src="../images/blog/author.png" alt="Author">
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -102,10 +95,11 @@
                         <h5>Majid Abdulghani</h5>
                         <p>ceo &amp; Founder </p>
                     </div>
-                </div> -->
+                </div>
 
-
-
+                <!--=========================*
+                        End Comment Sec
+                *===========================-->
             </div>
             <!--=========================*
                   End Blog Content Sec
@@ -113,7 +107,7 @@
             <!--=========================*
                       Blog Sidebar
             *===========================-->
-            <aside class="col-sm-4">
+            <!-- <aside class="col-sm-4">
                 <div class="widget">
                     <form class="search-form" role="search" action="#" method="post">
                         <input id="sidebar-search" placeholder="Search" type="text"/>
@@ -121,36 +115,37 @@
                 </div>
                 <div class="widget">
                     <div class="recent-posts">
-                        <h4>Recent Services</h4>
+                        <h4>RECENT POSTS</h4>
                         <div class="recent-posts-block">
                             <a href="#">
                                 <p>This is the one thing every smart home needs</p>
                             </a>
-                            <span>June 30,2019</span>
+                            <span>June 30,2017</span>
                         </div>
                         <div class="recent-posts-block">
                             <a href="#">
                                 <p>This is the one thing every smart home needs</p>
                             </a>
-                            <span>June 30,2019</span>
+                            <span>June 30,2017</span>
                         </div>
                         <div class="recent-posts-block">
                             <a href="#">
                                 <p>This is the one thing every smart home needs</p>
                             </a>
-                            <span>June 30,2019</span>
+                            <span>June 30,2017</span>
                         </div>
                         <div class="recent-posts-block">
                             <a href="#">
                                 <p>This is the one thing every smart home needs</p>
                             </a>
-                            <span>June 30,2019</span>
+                            <span>June 30,2017</span>
                         </div>
 
                     </div>
                 </div>
                 <div class="clearfix"></div>
-          </aside>
+
+            </aside> -->
             <!--=========================*
                    End Blog Sidebar
             *===========================-->
@@ -161,4 +156,4 @@
         End Blog Main Sec
 *=============================-->
 
-<?php include 'english/paratials/footer.php';?>
+<?php include 'paratials/footer.php';?>

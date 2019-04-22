@@ -96,7 +96,7 @@
 
 
                 </div>
-                <div class="author_box">
+                <!-- <div class="author_box">
                     <div class="author_img">
                         <img src="images/blog/author.png" alt="Author">
                         <ul>
@@ -110,7 +110,7 @@
                         <h5>Majid Abdulghani</h5>
                         <p>ceo &amp; Founder </p>
                     </div>
-                </div>
+                </div> -->
 
 
 

@@ -81,7 +81,7 @@ Moreover, our drones can help you with your events.
                     </blockquote>
 
                 </div>
-                <div class="author_box">
+                <!-- <div class="author_box">
                     <div class="author_img">
                         <img src="images/blog/author.png" alt="Author">
                         <ul>
@@ -95,7 +95,7 @@ Moreover, our drones can help you with your events.
                         <h5>Majid Abdulghani</h5>
                         <p>ceo &amp; Founder </p>
                     </div>
-                </div>
+                </div> -->
 
                 <!--=========================*
                         End Comment Sec

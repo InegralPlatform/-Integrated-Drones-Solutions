@@ -33,7 +33,7 @@
                                     <li><a href="index.php#rt_drone_screenshots">Screenshots</a></li>
                                     <!-- <li><a href="index.html#rt_testimonial">Testimonials</a></li> -->
                                     <!-- <li><a href="index.php#rt_pricing">Store</a></li> -->
-                                    <li><a href="index.php#rt_blog">Blog</a></li>
+                                    <!-- <li><a href="index.php#rt_blog">Blog</a></li> -->
                                     <!-- <li><a href="#">عربى</a></li> -->
                                     <li><a href="index.php#rt_contact"><i class="fa fa-phone"></i> Contact Us</a></li>
                                 </ul>

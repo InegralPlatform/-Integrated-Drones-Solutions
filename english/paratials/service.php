@@ -9,7 +9,7 @@
               <div class="col-md-3">
                   <div class="box text-center">
                       <div class="icon">
-                        <span><img src="images/service/Advertising.svg" / width="100"></span>
+                        <span><img src="images/service/drone.svg"  width="100"></span>
                       </div>
                       <h6>Advertising and Entertainment </h6>
                      <p></p>
@@ -20,7 +20,7 @@
             <div class="col-md-3">
                 <div class="box text-center">
                     <div class="icon">
-                        <span><img src="images/service/Inspection.svg" / width="100"></span>
+                        <span><img src="images/service/Inspection.svg"  width="100"></span>
                     </div>
                       <h6>Infrastructure <br /> Inspection </h6>
                      <p></p>
